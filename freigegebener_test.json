@@ -1,113 +1,16 @@
 {
   "veröffentlicht": true,
-  "titel": "Luft",
+  "titel": "gsdgsg",
   "fragenpool": [
     {
-      "frage": "Beschreibe, was du auf dem Bild siehst. Was hat dies mit dem Thema Luft zu tun?",
+      "id": "73a8eebc-5f57-4021-9287-d5304101aa92",
+      "frage": "Blöde Frage",
       "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Da das Bild nicht gegeben ist, kann ich als KI keine spezifische Antwort geben. Normalerweise würde ein Schüler hier eine Beschreibung des Bildes und dessen Verbindung zum Thema Luft geben.",
-      "id": "07180f9d-35a6-4848-bc39-2d1572f2cee8",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Luft ist ein Gasgemisch. Nenne zwei weitere Eigenschaften der Luft.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Luft ist unsichtbar und hat ein Gewicht.",
-      "id": "ac5a17a9-a500-4c5b-ba62-41862b12cfba",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Wie nennt man die Lufthülle der Erde?",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Die Lufthülle der Erde wird Atmosphäre genannt.",
-      "id": "8735d62d-32e5-4ea7-94f1-3ee4a93517f9",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Wähle die richtigen Aussagen aus.",
-      "typ": "multi_select",
-      "gewichtung": 4,
-      "optionen": [
-        "Stickstoff und Kohlenstoffdioxid sind die Hauptbestandteile der Luft.",
-        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
-        "Luft ist ein Gemisch aus verschiedenen Gasen.",
-        "Im Luftgemisch sind auch Edelgase enthalten."
-      ],
-      "antworten": [
-        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
-        "Luft ist ein Gemisch aus verschiedenen Gasen.",
-        "Im Luftgemisch sind auch Edelgase enthalten."
-      ],
-      "id": "a3a5753f-4edd-4260-bf19-83827324f42a",
-      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
-    },
-    {
-      "frage": "Ordne die Elemente ihren Elementsymbolen zu.",
-      "typ": "zuordnung",
-      "gewichtung": 5,
-      "antworten": {
-        "Kohlenstoffdioxid": "CO₂",
-        "Wasser": "H2O",
-        "Kohlenstoff": "C",
-        "Stickstoff": "N",
-        "Sauerstoff": "O"
-      },
-      "id": "bd1827a2-9a78-4d39-be2f-aa3d8c6d5bbf",
-      "vorschau": "Begriffe zu Kategorien zuordnen"
-    },
-    {
-      "frage": "Beschrifte die Tabelle hinsichtlich der Merkmale von Hoch- und Tiefdruckgebieten.",
-      "typ": "tabelle",
-      "gewichtung": 4,
-      "spalten": [
-        "Merkmal",
-        "Hochdruckgebiet",
-        "Tiefdruckgebiet"
-      ],
-      "zeilen": [
-        [
-          "Luftdruck",
-          "hoch",
-          "niedrig"
-        ],
-        [
-          "Raum der durch die Luftmenge eingenommen wird",
-          "klein",
-          "groß"
-        ]
-      ],
-      "id": "0f2813d9-5a37-47e4-8ff0-0993e5789da0",
-      "vorschau": "Tabelle mit Eingabefeldern"
-    },
-    {
-      "frage": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die ________________________________ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft ____________________. Warme Luft ________________ sich aus, kalte Luft hingegen zieht sich ______________________. Hochs und Tiefs wollen sich _____________________________. Dadurch zieht die Luft immer vom _________________________________ zum _____________________________________. Durch diesen Austausch entsteht ______________________.",
-      "typ": "lückentext",
-      "gewichtung": 4,
-      "antwort": [
-        "Temperatur",
-        "stark",
-        "dehnt",
-        "zusammen",
-        "ausgleichen",
-        "Hochdruckgebiet",
-        "Tiefdruckgebiet",
-        "Wind"
-      ],
-      "id": "4f694333-de4c-48d2-8ee0-41f5869a9965",
-      "vorschau": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Warme Luft [Lücke][Lücke][Lücke][Lücke][Lücke]_ sich aus, kalte Luft hingegen zieht sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Hochs und Tiefs wollen sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Dadurch zieht die Luft immer vom [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] zum [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Durch diesen Austausch entsteht [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_."
-    },
-    {
-      "frage": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst.",
-      "typ": "lückentext",
-      "gewichtung": 4,
-      "antwort": [
-        "Da die Lücken nicht spezifisch sind, kann ich als KI keine spezifische Antwort geben. Normalerweise würde ein Schüler hier eine Erklärung geben, wie Wind durch Temperaturunterschiede und Druckunterschiede in der Atmosphäre entsteht."
-      ],
-      "id": "9744c10f-89be-4b88-ace5-b5fd05ccb74a",
-      "vorschau": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst."
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
     }
   ],
   "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
