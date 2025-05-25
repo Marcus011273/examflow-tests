@@ -1,6 +1,17 @@
 {
-  "veröffentlicht": false,
+  "veröffentlicht": true,
   "titel": "fsdfse",
-  "fragenpool": [],
-  "upload_link": ""
+  "fragenpool": [
+    {
+      "id": "1a6b85c4-bba1-4cce-9f96-87f6ef4720c0",
+      "frage": "Wie viele Einwohner hat Ebersberg?",
+      "typ": "offen",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
 }
