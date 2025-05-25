@@ -1,15 +1,6 @@
 {
-  "veröffentlicht": true,
+  "veröffentlicht": false,
   "titel": "fsdfse",
-  "fragenpool": [
-    {
-      "id": "1a6b85c4-bba1-4cce-9f96-87f6ef4720c0",
-      "frage": "",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "",
-      "vorschau": "(neue Frage)"
-    }
-  ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "fragenpool": [],
+  "upload_link": ""
 }
