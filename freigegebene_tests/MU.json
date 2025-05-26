@@ -1,0 +1,128 @@
+{
+  "veröffentlicht": true,
+  "titel": "Wassertest",
+  "fragenpool": [
+    {
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
+      "typ": "tabelle",
+      "gewichtung": 3,
+      "spalten": [
+        "Zustandsform",
+        "Bezeichnung"
+      ],
+      "zeilen": [
+        [
+          "fest",
+          "Eis"
+        ],
+        [
+          "flüssig",
+          "Wasser"
+        ],
+        [
+          "gasförmig",
+          "Wasserdampf"
+        ]
+      ],
+      "id": "492771d8-b2a6-49ab-8c6e-98c31f2e4f46",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Wähle die richtigen Aussagen aus.",
+      "typ": "multi_select",
+      "gewichtung": 3.5,
+      "optionen": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "antworten": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "id": "69d008c0-f548-4de6-81db-5038525518b8",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Nummeriere den Kreislauf des Wassers in der passenden Reihenfolge und setze die folgenden Wörter richtig ein: Wolke, Wassertröpfchen, Wasserkreislauf, Wasserdampf, verdunstet, Meer, versickern, Niederschlag, erwärmt, kondensieren.",
+      "typ": "offen",
+      "gewichtung": 3.5,
+      "antwort": "1. Durch die Wärme verdunstet Wasser, vor allem über Seen, Flüssen und über dem Meer. 2. Wenn die Sonne scheint, erwärmt sie die Erdoberfläche. 3. Unsichtbar steigt es als Wasserdampf nach oben. 4. Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige Wassertröpfchen. Man nennt diesen Vorgang auch kondensieren. 5. Viele von diesen Wassertröpfchen bilden zusammen eine Wolke. 6. Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man Niederschlag. 7. Sie versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn.",
+      "id": "1c33f9fe-6aa0-410e-90fe-54df18d47e65",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat gefroren. Beim Gefrieren dehnt sich Wasser aus und der Druck hat die Flaschen zum Platzen gebracht.",
+      "id": "bd651432-86fe-4d5e-a153-7901fa7f6332",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Willi hat heute vergessen, seine Trinkflasche in die Schule mitzunehmen. Um sich gut konzentrieren zu können, muss er aber unbedingt Flüssigkeit zu sich nehmen. In der kleinen Pause öffnet er seine Brotzeitbox und entdeckt darin eine Reiswaffel, eine halbe Gurke, eine Banane und ein paar Gummibärchen. Zu welchem dieser Lebensmittel würdest du Willi am ehesten raten und warum?",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Ich würde Willi raten, die Gurke zu essen. Gurken bestehen zu einem großen Teil aus Wasser und können daher den Flüssigkeitsbedarf ein wenig decken.",
+      "id": "35fabbcb-01ed-4346-9d27-0833f687f17b",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Überlege, welcher Schirm als Erstes und welcher Schirm als Letztes trocknet. Zeichne die Schirme in der richtigen Farbe in die Kästchen. Ein blauer Schirm lehnt zusammengeklappt in der Ecke. Ein grüner Schirm ist vor dem warmen Ofen aufgespannt. Ein roter Schirm ist ordentlich in der Schirmhülle verstaut. Ein gelber Schirm ist aufgespannt in der Ecke. Erkläre, warum der ausgewählte Schirm als Erstes trocken wird:",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Der grüne Schirm wird als Erstes trocken, weil er vor dem warmen Ofen aufgespannt ist und die Wärme das Wasser schneller verdunsten lässt.",
+      "id": "0cdeb04c-ee3f-451b-8c14-0305fcf302f2",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welcher Niederschlag ist hier gemeint? Winzige Wassertröpfchen werden vom Wind nach oben getrieben und frieren.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Dies beschreibt Schneefall.",
+      "id": "e30c2a3e-2ab6-458d-8310-8bd2a7aeaab3",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welcher Niederschlag ist hier gemeint? Wenn die Luft kälter wird, rücken Wassertröpfchen zusammen, werden schwerer und fallen herunter.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Dies beschreibt Regen.",
+      "id": "3492cc09-614c-4911-9216-005abd516244",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welcher Niederschlag ist hier gemeint? Im Winter bei Temperaturen unter 0°C bilden sich aus Wasserdampf Eiskristalle.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Dies beschreibt Schneefall.",
+      "id": "4ad6acca-a4a9-4f0f-8273-e2bba5b48cfc",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welcher Niederschlag ist hier gemeint? Im Herbst stößt warme Luft auf kalten Boden und die Feuchtigkeit verdichtet sich.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Dies beschreibt Nebel.",
+      "id": "768661fc-7a49-4d71-9611-e7482daa7b4b",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Susi's Brille beschlägt, weil die warme, feuchte Luft auf die kalten Brillengläser trifft und dort kondensiert. Dieser Vorgang wird Kondensation genannt.",
+      "id": "a23155a9-684d-4456-b022-b71a39f9e77d",
+      "vorschau": "(Freitextantwort)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
