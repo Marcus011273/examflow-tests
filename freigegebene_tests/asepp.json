@@ -1,17 +1,6 @@
 {
-  "veröffentlicht": true,
-  "titel": "Wetter2",
-  "fragenpool": [
-    {
-      "id": "7d9d9ab6-4f19-4f97-bf02-0735e5e02956",
-      "frage": "Wie wird das Wetter morgen? mmmm",
-      "typ": "offen",
-      "gewichtung": 1.0,
-      "antwort": "",
-      "vorschau": "(Freitextantwort)",
-      "bild_url": "",
-      "bild": null
-    }
-  ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "veröffentlicht": false,
+  "titel": "",
+  "fragenpool": [],
+  "upload_link": ""
 }
