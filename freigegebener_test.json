@@ -1,17 +1,22 @@
 {
   "veröffentlicht": true,
-  "titel": "gsdgsg",
+  "titel": "Kurzgeschichte „The Line“",
   "fragenpool": [
     {
-      "id": "73a8eebc-5f57-4021-9287-d5304101aa92",
-      "frage": "Blöde Frage",
+      "id": "b8e58d36-b182-4e6f-9f76-76aa0e24df89",
+      "frage": "Setze dir ein persönliches Schreibziel für deine Kurzgeschichte.",
       "typ": "offen",
-      "gewichtung": 1.0,
+      "gewichtung": 2,
+      "antwort": "Ich möchte besonders auf einen spannenden Einstieg achten und den Wendepunkt klar herausarbeiten."
+    },
+    {
+      "id": "96c577c9-4f37-42b3-b6b1-fd038e398ad1",
+      "frage": "Schreibe eine eigene Kurzgeschichte, die sich an der VR-Anwendung *The Line* orientiert. Achte dabei auf die typischen Merkmale einer Kurzgeschichte (z. B. offener Anfang, Wendepunkt, begrenzter Zeitraum, wenige Figuren).",
+      "typ": "aufsatz",
+      "gewichtung": 18,
       "antwort": "",
-      "vorschau": "(Freitextantwort)",
-      "bild_url": "",
-      "bild": null
+      "antworten": {}
     }
   ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "upload_link": "https://2267.drive.bycs.de/s/tlbHWLAhMoPjcBg"
 }
