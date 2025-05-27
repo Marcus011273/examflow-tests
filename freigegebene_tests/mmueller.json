@@ -1,10 +1,10 @@
 {
   "veröffentlicht": true,
-  "titel": "Aufsatz",
+  "titel": "AufsatzII",
   "fragenpool": [
     {
-      "id": "5c8fc1fc-2d89-4935-989f-d818e868b956",
-      "frage": "Schreibe in einem zusammenhängenden Text, was du über die Merkmale einer Kurzgeschichte weißt.",
+      "id": "cff6fe8d-dd97-4cab-b86b-17f2289d54b7",
+      "frage": "Schreibe einen Aufsatz zu den Merkmalen einer Kurzgeschichte.",
       "typ": "aufsatz",
       "gewichtung": 12.0,
       "antwort": "",
