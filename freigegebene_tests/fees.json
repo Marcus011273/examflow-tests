@@ -1,0 +1,18 @@
+{
+  "veröffentlicht": true,
+  "titel": "fwf",
+  "fragenpool": [
+    {
+      "id": "a657117e-32c8-482e-a762-ba0efb01b7cf",
+      "frage": "München ist die Hauptstadt von Deutschland",
+      "typ": "wahr_falsch",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "(neue Frage)",
+      "antworten": {},
+      "bild_url": "",
+      "bild": null
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
