@@ -1,0 +1,287 @@
+{
+  "veröffentlicht": true,
+  "titel": "Demokratie",
+  "fragenpool": [
+    {
+      "frage": "Was verbirgt sich hinter der Abkürzung GG?",
+      "typ": "offen",
+      "gewichtung": 1,
+      "antwort": "Hinter der Abkürzung GG verbirgt sich das Grundgesetz.",
+      "id": "2f963976-afac-4ad9-98fe-0554d1bf7f5a",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welcher Artikel des GG legt die Aufgaben der Parteien fest? Wähle die richtige Antwort: Artikel 22, Artikel 21, Artikel 19",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Artikel 22",
+        "Artikel 21",
+        "Artikel 19"
+      ],
+      "antwort": "Artikel 21",
+      "id": "e68fb7d7-a7be-49d1-8fce-9e3ead179811",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Ergänze die fehlenden Wahlrechtsgrundsätze: frei - gleich - _____________ - _______________ - ________________",
+      "typ": "lückentext",
+      "gewichtung": 3,
+      "antwort": [
+        "geheim",
+        "unmittelbar",
+        "allgemein"
+      ],
+      "id": "3439fa39-90b6-49b4-b604-9d9a83599a43",
+      "vorschau": "Ergänze die fehlenden Wahlrechtsgrundsätze: frei - gleich - [Lücke][Lücke][Lücke][Lücke]_ - [Lücke][Lücke][Lücke][Lücke][Lücke] - [Lücke][Lücke][Lücke][Lücke][Lücke]_"
+    },
+    {
+      "frage": "Was versteht man unter dem sogenannten aktiven Wahlrecht? Wähle die richtige Antwort: Die Aufgaben der Wahlhelfer bei der Wahl, Das Recht der Bürger zu wählen, Das Recht in den Bundestag gewählt zu werden",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Die Aufgaben der Wahlhelfer bei der Wahl",
+        "Das Recht der Bürger zu wählen",
+        "Das Recht in den Bundestag gewählt zu werden"
+      ],
+      "antwort": "Das Recht der Bürger zu wählen",
+      "id": "484dfc37-c307-4a26-97d8-8fb008f0c7a0",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Ergänze die Lücken in folgendem Text. Das bundesdeutsche Wahlsystem ist eine Mischung aus Persönlichkeitswahl und _________________. In jedem der 280 Wahlkreise wird ein Direktkandidat mit einfacher _________________ gewählt. Um in den Bundestag zu gelangen müssen die Parteien die ______ Hürde überwinden oder ______ Direktmandat gewinnen. Die BRD hat ein sogenanntes _______________________________ Verhältniswahlrecht.",
+      "typ": "lückentext",
+      "gewichtung": 5,
+      "antwort": [
+        "Listenwahl",
+        "Mehrheit",
+        "Fünf-Prozent",
+        "ein",
+        "personalisiertes"
+      ],
+      "id": "8f553e01-afba-406d-8c3c-e5d147ebb888",
+      "vorschau": "Ergänze die Lücken in folgendem Text. Das bundesdeutsche Wahlsystem ist eine Mischung aus Persönlichkeitswahl und [Lücke][Lücke][Lücke][Lücke][Lücke]__. In jedem der 280 Wahlkreise wird ein Direktkandidat mit einfacher [Lücke][Lücke][Lücke][Lücke][Lücke]__ gewählt. Um in den Bundestag zu gelangen müssen die Parteien die [Lücke][Lücke] Hürde überwinden oder [Lücke][Lücke] Direktmandat gewinnen. Die BRD hat ein sogenanntes [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ Verhältniswahlrecht."
+    },
+    {
+      "frage": "Unter einem Überhangmandat versteht man ein: Wähle die richtige Antwort: ein Sitzplatz ganz hinten im Bundestag, eine Partei gewinnt mehr Direktmandate als Zweitstimmenplätze, eine Partei bekommt mehr Mandate, weil sie über 40% der Stimmen erreicht hat",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "ein Sitzplatz ganz hinten im Bundestag",
+        "eine Partei gewinnt mehr Direktmandate als Zweitstimmenplätze",
+        "eine Partei bekommt mehr Mandate, weil sie über 40% der Stimmen erreicht hat"
+      ],
+      "antwort": "eine Partei gewinnt mehr Direktmandate als Zweitstimmenplätze",
+      "id": "62a06523-9b0d-4881-b65c-5c9a788bd3f3",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Ergänze die betreffenden Fachbegriffe: Zwei oder mehrere Parteien schließen sich zusammen: _______________, Die Parteien arbeiten im Bundestag als _______________, Der Bundeskanzler und seine Minister treffen sich im: _______________, Die Parteien, die nicht die Regierungsmehrheit haben, sind in der _______________",
+      "typ": "lückentext",
+      "gewichtung": 3,
+      "antwort": [
+        "Koalition",
+        "Fraktionen",
+        "Kabinett",
+        "Opposition"
+      ],
+      "id": "0420901b-d3db-4be4-a397-59b2e5357dac",
+      "vorschau": "Ergänze die betreffenden Fachbegriffe: Zwei oder mehrere Parteien schließen sich zusammen: [Lücke][Lücke][Lücke][Lücke][Lücke], Die Parteien arbeiten im Bundestag als [Lücke][Lücke][Lücke][Lücke][Lücke], Der Bundeskanzler und seine Minister treffen sich im: [Lücke][Lücke][Lücke][Lücke][Lücke], Die Parteien, die nicht die Regierungsmehrheit haben, sind in der [Lücke][Lücke][Lücke][Lücke][Lücke]"
+    },
+    {
+      "frage": "Nenne die Parteien, die momentan im Bundestag an der Regierung sind und die Parteien, die nicht an der Regierung sind: Regierungsparteien: _______________, Nicht-Regierungsparteien: _______________",
+      "typ": "offen",
+      "gewichtung": 4,
+      "antwort": "Die genauen Parteien können variieren, abhängig von der aktuellen politischen Situation. Beispielsweise könnten die Regierungsparteien CDU und SPD sein, während die Nicht-Regierungsparteien Die Grünen, FDP, Die Linke und AfD sein könnten.",
+      "id": "c035f4e3-3019-4042-bbc6-8a1cf756f48b",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Kennst du folgende Minister beim Namen (Kabinett bis 2005): Außenminister: _______________, Finanzminister: _______________, Gesundheitsminister: _______________, Innenminister: _______________",
+      "typ": "offen",
+      "gewichtung": 4,
+      "antwort": "Die genauen Namen der Minister können variieren, abhängig von der genannten Regierungsperiode. Beispielsweise könnte der Außenminister Joschka Fischer, der Finanzminister Hans Eichel, der Gesundheitsminister Ulla Schmidt und der Innenminister Otto Schily sein.",
+      "id": "418ecdd9-b8c4-4411-a558-b9439d3f4ca6",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welche der folgenden Aufgaben gehört nicht zu den Aufgaben des Bundestages? Wähle die richtige Antwort: Wahl des Bundeskanzlers, Gesetzgebung, Kontrolle der Regierung, Vertretung der Bundesländer, Aufstellung Bundeshaushalt, Vertretung der Bürger",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Wahl des Bundeskanzlers",
+        "Gesetzgebung",
+        "Kontrolle der Regierung",
+        "Vertretung der Bundesländer",
+        "Aufstellung Bundeshaushalt",
+        "Vertretung der Bürger"
+      ],
+      "antwort": "Vertretung der Bundesländer",
+      "id": "71036725-e3fe-42d7-9ccb-9918bba7719d",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Wer ernennt die Bundesminister?",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Die Bundesminister werden vom Bundespräsidenten ernannt.",
+      "id": "124d5247-bf45-42d1-9c3f-6f054a191e0f",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welche Vorteile gehören zu einem Mehrparteiensystem? Wähle die richtigen Antworten: die Bürger haben zwischen verschiedenen Programmen Auswahl, ein Parteiprogramm bestimmt die Politik, verschiedene Parteien stellen sich zur Wahl, man kann die Partei, die nicht den Erwartungen entspricht, abwählen, Gesetze lassen sich im Parlament ganz einfach durchbringen",
+      "typ": "multi_select",
+      "gewichtung": 1,
+      "optionen": [
+        "die Bürger haben zwischen verschiedenen Programmen Auswahl",
+        "ein Parteiprogramm bestimmt die Politik",
+        "verschiedene Parteien stellen sich zur Wahl",
+        "man kann die Partei, die nicht den Erwartungen entspricht, abwählen",
+        "Gesetze lassen sich im Parlament ganz einfach durchbringen"
+      ],
+      "antworten": [
+        "die Bürger haben zwischen verschiedenen Programmen Auswahl",
+        "verschiedene Parteien stellen sich zur Wahl",
+        "man kann die Partei, die nicht den Erwartungen entspricht, abwählen"
+      ],
+      "id": "b4aa311e-dad9-47ba-9045-6472f5aa7930",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Welches Regierungssystem haben USA? Wähle die richtige Antwort: 3-Parteiensystem, 2-Parteiensystem, 1-Parteiensystem",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "3-Parteiensystem",
+        "2-Parteiensystem",
+        "1-Parteiensystem"
+      ],
+      "antwort": "2-Parteiensystem",
+      "id": "2e3d2cbb-c847-4844-91b9-37441f80e3c8",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Wer bestimmt über die Höhe der Diäten der Abgeordneten? Wähle die richtige Antwort: Bundesrat, Bundesregierung, Bundesverfassungsgericht, Bundestag",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Bundesrat",
+        "Bundesregierung",
+        "Bundesverfassungsgericht",
+        "Bundestag"
+      ],
+      "antwort": "Bundestag",
+      "id": "752f297a-845a-43de-814f-5fb0cba3e8b6",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Was versteht man unter der Abkürzung MdB?",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Unter der Abkürzung MdB versteht man Mitglied des Bundestages.",
+      "id": "ffeb9d6d-d3ef-4fd3-a405-cf982d7f3645",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Bezeichne die wichtigsten Abgeordnetenrechte mit dem betreffendem Fremdwort: Schutzrecht vor Strafverfolgung: _______________, Recht der Aussageverweigerung vor Gericht: _______________",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antwort": [
+        "Immunität",
+        "Zeugnisverweigerungsrecht"
+      ],
+      "id": "f8dea96d-cfd6-46d0-8cf1-97a4d91cbd5b",
+      "vorschau": "Bezeichne die wichtigsten Abgeordnetenrechte mit dem betreffendem Fremdwort: Schutzrecht vor Strafverfolgung: [Lücke][Lücke][Lücke][Lücke][Lücke], Recht der Aussageverweigerung vor Gericht: [Lücke][Lücke][Lücke][Lücke][Lücke]"
+    },
+    {
+      "frage": "Ein Regierungssystem aus eigenständigen Bundesstaaten mit einer gemeinsamen Verfassung nennt man: Wähle die richtige Antwort: virales Regierungssystem, demokratisches Regierungssystem, federales Regierungssystem, föderales Regierungssystem",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "virales Regierungssystem",
+        "demokratisches Regierungssystem",
+        "federales Regierungssystem",
+        "föderales Regierungssystem"
+      ],
+      "antwort": "föderales Regierungssystem",
+      "id": "a0b1c12b-edef-481e-a774-1e613364c55b",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Die Einteilung der Bundesrepublik in Bundesstaaten ist ein Ergebnis des: Wähle die richtige Antwort: des 30jährigen Krieges, des 1. Weltkrieges, des deutsch- österreichischen Krieges von 1866, des 2. Weltkrieges",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "des 30jährigen Krieges",
+        "des 1. Weltkrieges",
+        "des deutsch- österreichischen Krieges von 1866",
+        "des 2. Weltkrieges"
+      ],
+      "antwort": "des 2. Weltkrieges",
+      "id": "33e17c39-f3b1-494a-8a1d-143dca4661bf",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Nenne die Landeshauptstädte folgender Bundesländer: Mecklenburg- Vorpommern: _______________, Nordrhein-Westfalen: _______________, Hessen: _______________",
+      "typ": "lückentext",
+      "gewichtung": 3,
+      "antwort": [
+        "Schwerin",
+        "Düsseldorf",
+        "Wiesbaden"
+      ],
+      "id": "138fd6e3-cf9f-4eed-8dbf-ac38245c85c9",
+      "vorschau": "Nenne die Landeshauptstädte folgender Bundesländer: Mecklenburg- Vorpommern: [Lücke][Lücke][Lücke][Lücke][Lücke], Nordrhein-Westfalen: [Lücke][Lücke][Lücke][Lücke][Lücke], Hessen: [Lücke][Lücke][Lücke][Lücke][Lücke]"
+    },
+    {
+      "frage": "Wer vertritt die Interessen der Länder im bundesdeutschen Gesetzgebungsprozess? Wähle die richtige Antwort: Bundestag, Landtage, Bundesrat, Bundesinnenministerium",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Bundestag",
+        "Landtage",
+        "Bundesrat",
+        "Bundesinnenministerium"
+      ],
+      "antwort": "Bundesrat",
+      "id": "9ad51da8-b423-4abb-b3a2-a74e86996e54",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Welche der folgenden Aufgaben gehört nicht zu den Länderaufgaben? Wähle die richtige Antwort: Schulen, Abfallentsorgung, Luftverkehr, Gesundheitsfürsorge, Polizei",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Schulen",
+        "Abfallentsorgung",
+        "Luftverkehr",
+        "Gesundheitsfürsorge",
+        "Polizei"
+      ],
+      "antwort": "Luftverkehr",
+      "id": "f73884d5-57e3-408d-9c2d-0e6b78eca09d",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Wer hat in Bayern das Recht einen Gesetzentwurf einzubringen?",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "In Bayern haben das Recht einen Gesetzentwurf einzubringen: die Landesregierung, ein Fünftel der Mitglieder des Landtags und die wahlberechtigten Bürgerinnen und Bürger durch ein Volksbegehren.",
+      "id": "21031b84-8853-404d-86ac-e2def515cb86",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Verfolge den Weg eines Volksbegehrens in Bayern und ergänze die Lücken: Gesetzentwurf 🡪 Volksbegehren mit _____ der Wahlberechtigten 🡪 Ministerpräsident 🡪 Zustimmung/Ablehnung des ________________ 🡪 Ablehnung, dann 🡪 ________________________________________",
+      "typ": "lückentext",
+      "gewichtung": 3,
+      "antwort": [
+        "10%",
+        "Landtags",
+        "Volksentscheid"
+      ],
+      "id": "2a10af95-db1d-4a5a-b104-bf517c207ccd",
+      "vorschau": "Verfolge den Weg eines Volksbegehrens in Bayern und ergänze die Lücken: Gesetzentwurf 🡪 Volksbegehren mit [Lücke]__ der Wahlberechtigten 🡪 Ministerpräsident 🡪 Zustimmung/Ablehnung des [Lücke][Lücke][Lücke][Lücke][Lücke]_ 🡪 Ablehnung, dann 🡪 [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
