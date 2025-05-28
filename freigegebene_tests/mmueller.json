@@ -1,17 +1,44 @@
 {
   "veröffentlicht": true,
-  "titel": "AufsatzII",
+  "titel": "Test Tabelle",
   "fragenpool": [
     {
-      "id": "cff6fe8d-dd97-4cab-b86b-17f2289d54b7",
-      "frage": "Schreibe einen Aufsatz zu den Merkmalen einer Kurzgeschichte.",
-      "typ": "aufsatz",
-      "gewichtung": 12.0,
+      "id": "c6fc8809-eddb-4b2c-9b09-f97a25d873ff",
+      "frage": "Fülle die Tabelle mit passenden Begriffen aus!",
+      "typ": "tabelle",
+      "gewichtung": 1.0,
       "antwort": "",
-      "vorschau": "(digitaler Aufsatz – längere Eingabe)",
-      "antworten": {},
+      "vorschau": "Tabelle mit Eingabefeldern",
       "bild_url": "",
-      "bild": null
+      "bild": null,
+      "spalten": [
+        "Spalte 1",
+        "Spalte 2",
+        "Spalte 3"
+      ],
+      "zeilen": 3,
+      "rand": [
+        "Zeile 1",
+        "Zeile 2",
+        "Hund"
+      ],
+      "zellen": [
+        [
+          "Garten",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ]
     }
   ],
   "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
