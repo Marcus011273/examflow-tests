@@ -1,6 +1,6 @@
 {
   "veröffentlicht": true,
-  "titel": "Kurztest zu Wasserkreislauf",
+  "titel": "Test_Wasser",
   "fragenpool": [
     {
       "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
@@ -20,20 +20,7 @@
         "Zeile 2",
         "Zeile 3"
       ],
-      "zellen": [
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ]
-      ]
+      "zellen": []
     },
     {
       "frage": "Wähle die richtigen Aussagen aus.",
