@@ -1,17 +1,6 @@
 {
-  "veröffentlicht": true,
-  "titel": "htheh",
-  "fragenpool": [
-    {
-      "id": "0a742633-c1f1-44ce-a5c7-157b1738d8f4",
-      "frage": "Wie alt bist du?",
-      "typ": "offen",
-      "gewichtung": 1.0,
-      "antwort": "",
-      "vorschau": "(Freitextantwort)",
-      "bild_url": "",
-      "bild": null
-    }
-  ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "veröffentlicht": false,
+  "titel": "",
+  "fragenpool": [],
+  "upload_link": ""
 }
