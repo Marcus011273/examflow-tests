@@ -1,43 +1,19 @@
 {
   "veröffentlicht": true,
-  "titel": "Test Tabelle",
+  "titel": "aschmidt",
   "fragenpool": [
     {
-      "id": "c6fc8809-eddb-4b2c-9b09-f97a25d873ff",
-      "frage": "Fülle die Tabelle mit passenden Begriffen aus!",
-      "typ": "tabelle",
+      "id": "063db568-7318-4cc2-8838-435bec8cbce8",
+      "frage": "Testfrage. Fülle die Lücken __________________________, __________________________\n",
+      "typ": "lückentext",
       "gewichtung": 1.0,
       "antwort": "",
-      "vorschau": "Tabelle mit Eingabefeldern",
+      "vorschau": "Testfrage. Fülle die Lücken [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__, [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__\n",
       "bild_url": "",
       "bild": null,
-      "spalten": [
-        "Spalte 1",
-        "Spalte 2",
-        "Spalte 3"
-      ],
-      "zeilen": 3,
-      "rand": [
-        "Zeile 1",
-        "Zeile 2",
-        "Hund"
-      ],
-      "zellen": [
-        [
-          "Garten",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ],
-        [
-          "",
-          "",
-          ""
-        ]
+      "antworten": [
+        "Haus",
+        "Garten"
       ]
     }
   ],
