@@ -1,0 +1,17 @@
+{
+  "veröffentlicht": true,
+  "titel": "trt",
+  "fragenpool": [
+    {
+      "id": "944ce539-deb7-4678-abba-7e8e9a9e1d0a",
+      "frage": "Wie alt bist du?",
+      "typ": "offen",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
