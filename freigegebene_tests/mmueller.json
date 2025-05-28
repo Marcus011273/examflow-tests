@@ -1,6 +1,96 @@
 {
-  "veröffentlicht": false,
-  "titel": "",
-  "fragenpool": [],
-  "upload_link": ""
+  "veröffentlicht": true,
+  "titel": "Kurztest zu Wasserkreislauf",
+  "fragenpool": [
+    {
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
+      "typ": "tabelle",
+      "gewichtung": 3.0,
+      "spalten": [
+        "Zustandsform",
+        "Bezeichnung"
+      ],
+      "zeilen": 3,
+      "id": "7400f517-b092-4bce-b40b-1059443f8ea5",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "bild_url": "",
+      "bild": null,
+      "rand": [
+        "Zeile 1",
+        "Zeile 2",
+        "Zeile 3"
+      ],
+      "zellen": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "frage": "Wähle die richtigen Aussagen aus.",
+      "typ": "multi_select",
+      "gewichtung": 3.5,
+      "optionen": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "antworten": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "id": "c3eb8321-1d36-4d44-9407-9e89b83111f7",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Ordne die einzelnen Phasen des Wasserkreislaufs in der richtigen Reihenfolge.",
+      "typ": "zuordnung",
+      "gewichtung": 3.5,
+      "antworten": {
+        "Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man": "Niederschlag",
+        "Durch die Wärme": "verdunstet Wasser, vor allem über Seen, Flüssen und über dem Meer",
+        "Wenn die Sonne scheint,": "erwärmt sie die Erdoberfläche",
+        "Sie": "versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn",
+        "Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige": "Wassertröpfchen. Man nennt diesen Vorgang auch kondensieren",
+        "Unsichtbar steigt es als": "Wasserdampf nach oben",
+        "Viele von diesen Wassertröpfchen bilden zusammen eine": "Wolke"
+      },
+      "id": "f13431ac-8ad7-4e7b-b545-2cd37063097c",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
+      "typ": "aufsatz",
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat gefroren. Da Wasser sich beim Gefrieren ausdehnt, hat es den Flascheninhalt gesprengt.",
+      "id": "7343b647-76b7-4af5-b7b3-f7ca6f720f4b",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
+      "typ": "aufsatz",
+      "gewichtung": 2,
+      "antwort": "Susi's Brille beschlägt, weil die warme, feuchte Luft auf der kalten Brillenglasoberfläche kondensiert. Dieser Prozess wird als Kondensation bezeichnet.",
+      "id": "5d98c4f1-7f82-42de-bb3a-3607013011ab",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
 }
