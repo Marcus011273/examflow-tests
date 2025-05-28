@@ -1,15 +1,6 @@
 {
-  "veröffentlicht": true,
-  "titel": "uzu",
-  "fragenpool": [
-    {
-      "id": "7c926b7c-1279-4e62-baef-ac889e0c9b9f",
-      "frage": "",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "",
-      "vorschau": "(neue Frage)"
-    }
-  ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "veröffentlicht": false,
+  "titel": "",
+  "fragenpool": [],
+  "upload_link": ""
 }
