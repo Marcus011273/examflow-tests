@@ -1,14 +1,127 @@
 {
   "veröffentlicht": true,
-  "titel": "khkg",
+  "titel": "Ägypten",
   "fragenpool": [
     {
-      "id": "7c926b7c-1279-4e62-baef-ac889e0c9b9f",
-      "frage": "",
+      "frage": "Nenne die fehlenden Lücken in der Tabelle für die jeweilige Jahreszeit, den Wasserstand und zwei Aufgaben der Bauern.",
+      "typ": "tabelle",
+      "gewichtung": 6.0,
+      "spalten": [
+        "Wasserstand",
+        "Zwei Aufgaben der Bauern"
+      ],
+      "zeilen": 3,
+      "id": "688d4cfa-b0b5-4fde-a582-4a78c71a2383",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "bild_url": "",
+      "bild": null,
+      "rand": [
+        "Achet",
+        "Peru",
+        "Schemu"
+      ],
+      "zellen": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "frage": "Erkläre, warum die drei Jahreszeiten nicht immer genauso abgelaufen sind.",
       "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "",
-      "vorschau": "(neue Frage)"
+      "gewichtung": 2,
+      "antwort": "Die Jahreszeiten sind nicht immer gleich abgelaufen, da sie von verschiedenen Faktoren wie dem Klima, der geographischen Lage und den landwirtschaftlichen Bedingungen abhängen.",
+      "id": "94081f87-0927-421b-a50f-a1c59ec01f2f",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Vervollständige die Lücken im Lückentext. Der Pharao ______________ (Name des Pharaos) lies die bekanntesten Pyramiden, die Cheopspyramiden, bauen. Diese wurden am __________________ (Himmelsrichtung) Ufer des Nils gebaut. Die Pyramiden wurden als ____________________ gebaut. Laut der Rampentheorie gab es drei Arten der Rampen: die _________________, die ___________________ und die _______________________.",
+      "typ": "lückentext",
+      "gewichtung": 6.0,
+      "antwort": {
+        "Name des Pharaos": "Cheops",
+        "Himmelsrichtung": "westlichen",
+        "als": "Grabstätten",
+        "die _________________": "gerade Rampe",
+        "die ___________________": "gewundene Rampe",
+        "die _______________________": "äußere Rampe"
+      },
+      "id": "938b6dad-66ca-469a-9c89-10e608d24795",
+      "vorschau": "Vervollständige die Lücken im Lückentext. Der Pharao [Lücke][Lücke][Lücke][Lücke]__ (Name des Pharaos) lies die bekanntesten Pyramiden, die Cheopspyramiden, bauen. Diese wurden am [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] (Himmelsrichtung) Ufer des Nils gebaut. Die Pyramiden wurden als [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__ gebaut. Laut der Rampentheorie gab es drei Arten der Rampen: die [Lücke][Lücke][Lücke][Lücke][Lücke]__, die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ und die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__.",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Cheops",
+        "westlichen",
+        "Grabstätten",
+        "gerade Rampe",
+        "Zickzackrampe",
+        "Spiralenrampe"
+      ]
+    },
+    {
+      "frage": "Ordne die Aussagen den passenden Göttern zu.",
+      "typ": "zuordnung",
+      "gewichtung": 6,
+      "antworten": {
+        "Gott des Himmels": "Horus",
+        "Sonnengott": "Re",
+        "Gott der Toten": "Anubis",
+        "empfing die Toten am Eingang der Unterwelt und führte sie vors Totengericht": "Anubis",
+        "Zuständigkeit als Lichtgott, der am Tag und in der Nacht die Welt erhellt": "Re",
+        "hielt alles am Leben": "Horus"
+      },
+      "id": "c57c94a6-fb57-492b-92ed-6aa41519ba63",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Beschreibe zwei Dinge, die du bei der Arbeit mit Quellen beachten musst.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "1. Man muss die Glaubwürdigkeit der Quelle überprüfen. 2. Man sollte die Quelle im Kontext ihrer Zeit und ihres Ortes betrachten.",
+      "id": "d2cf4435-1256-463a-9afe-c5a3ea3cd08f",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Wähle die richtigen Aussagen aus. Für falsch ausgewählte Aussagen bekommst du Punktabzug.",
+      "typ": "multi_select",
+      "gewichtung": 4,
+      "optionen": [
+        "Der Pharao sprach sich mit dem Volk über neue Gesetze ab.",
+        "Der Pharao sorgte durch Gesetze für Frieden und Ordnung.",
+        "Eine der wohl wichtigsten Aufgaben des Pharaos war es aber sein Volk zu beschützen.",
+        "Der Pharao war nicht zuständig bei Straftaten innerhalb des Landes.",
+        "Der Pharao sollte die Menschen für die Götter bestrafen.",
+        "Der Pharao befahl den Bau von Pyramiden.",
+        "Der Pharao stand an der Spitze der Gesellschaftspyramide in Ägypten."
+      ],
+      "antworten": [
+        "Der Pharao sorgte durch Gesetze für Frieden und Ordnung.",
+        "Eine der wohl wichtigsten Aufgaben des Pharaos war es aber sein Volk zu beschützen.",
+        "Der Pharao befahl den Bau von Pyramiden.",
+        "Der Pharao stand an der Spitze der Gesellschaftspyramide in Ägypten."
+      ],
+      "id": "39847971-65e4-4d59-ad70-d47b1712a1f2",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Beschreibe die Gesellschaftsstruktur im alten Ägypten. ",
+      "typ": "offen",
+      "gewichtung": 5.0,
+      "antwort": "Von oben nach unten: Pharao, Hohe Beamte und Priester, Soldaten, Handwerker, Bauern und Sklaven.",
+      "id": "ff4533b7-ed5e-4356-b2c7-5704f0cd631a",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
     }
   ],
   "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
