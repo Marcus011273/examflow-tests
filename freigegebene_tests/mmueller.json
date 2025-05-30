@@ -1,114 +1,94 @@
 {
   "veröffentlicht": true,
-  "titel": "ÄgyptenII",
+  "titel": "Wasser 4A, 30.05.2025",
   "fragenpool": [
     {
-      "frage": "Nenne die fehlenden Lücken in der Tabelle für die jeweilige Jahreszeit, den Wasserstand und zwei Aufgaben der Bauern.",
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
       "typ": "tabelle",
-      "gewichtung": 6.0,
+      "gewichtung": 3.0,
       "spalten": [
-        "Wasserstand",
-        "Zwei Aufgaben der Bauern"
+        "Zustandsform",
+        "Bezeichnung"
       ],
       "zeilen": 3,
-      "id": "688d4cfa-b0b5-4fde-a582-4a78c71a2383",
+      "id": "11af17f3-1692-4632-bb94-a40a07ee3c75",
       "vorschau": "Tabelle mit Eingabefeldern",
       "bild_url": "",
       "bild": null,
       "rand": [
-        "Achet",
-        "Peru",
-        "Schemu"
+        "Zeile 1",
+        "Zeile 2",
+        "Zeile 3"
       ],
-      "zellen": []
-    },
-    {
-      "frage": "Erkläre, warum die drei Jahreszeiten nicht immer genauso abgelaufen sind.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Die Jahreszeiten sind nicht immer gleich abgelaufen, da sie von verschiedenen Faktoren wie dem Klima, der geographischen Lage und den landwirtschaftlichen Bedingungen abhängen.",
-      "id": "94081f87-0927-421b-a50f-a1c59ec01f2f",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Vervollständige die Lücken im Lückentext. Der Pharao ______________ (Name des Pharaos) lies die bekanntesten Pyramiden, die Cheopspyramiden, bauen. Diese wurden am __________________ (Himmelsrichtung) Ufer des Nils gebaut. Die Pyramiden wurden als ____________________ gebaut. Laut der Rampentheorie gab es drei Arten der Rampen: die _________________, die ___________________ und die _______________________.",
-      "typ": "lückentext",
-      "gewichtung": 6.0,
-      "antwort": {
-        "Name des Pharaos": "Cheops",
-        "Himmelsrichtung": "westlichen",
-        "als": "Grabstätten",
-        "die _________________": "gerade Rampe",
-        "die ___________________": "gewundene Rampe",
-        "die _______________________": "äußere Rampe"
-      },
-      "id": "938b6dad-66ca-469a-9c89-10e608d24795",
-      "vorschau": "Vervollständige die Lücken im Lückentext. Der Pharao [Lücke][Lücke][Lücke][Lücke]__ (Name des Pharaos) lies die bekanntesten Pyramiden, die Cheopspyramiden, bauen. Diese wurden am [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] (Himmelsrichtung) Ufer des Nils gebaut. Die Pyramiden wurden als [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__ gebaut. Laut der Rampentheorie gab es drei Arten der Rampen: die [Lücke][Lücke][Lücke][Lücke][Lücke]__, die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ und die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__.",
-      "bild_url": "",
-      "bild": null,
-      "antworten": [
-        "Cheops",
-        "westlichen",
-        "Grabstätten",
-        "gerade Rampe",
-        "Zickzackrampe",
-        "Spiralenrampe"
+      "zellen": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
       ]
     },
     {
-      "frage": "Ordne die Aussagen den passenden Göttern zu.",
-      "typ": "zuordnung",
-      "gewichtung": 6,
-      "antworten": {
-        "Gott des Himmels": "Horus",
-        "Sonnengott": "Re",
-        "Gott der Toten": "Anubis",
-        "empfing die Toten am Eingang der Unterwelt und führte sie vors Totengericht": "Anubis",
-        "Zuständigkeit als Lichtgott, der am Tag und in der Nacht die Welt erhellt": "Re",
-        "hielt alles am Leben": "Horus"
-      },
-      "id": "c57c94a6-fb57-492b-92ed-6aa41519ba63",
-      "vorschau": "Begriffe zu Kategorien zuordnen"
-    },
-    {
-      "frage": "Beschreibe zwei Dinge, die du bei der Arbeit mit Quellen beachten musst.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "1. Man muss die Glaubwürdigkeit der Quelle überprüfen. 2. Man sollte die Quelle im Kontext ihrer Zeit und ihres Ortes betrachten.",
-      "id": "d2cf4435-1256-463a-9afe-c5a3ea3cd08f",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Wähle die richtigen Aussagen aus. Für falsch ausgewählte Aussagen bekommst du Punktabzug.",
+      "frage": "Wähle die richtigen Aussagen aus.",
       "typ": "multi_select",
-      "gewichtung": 4,
+      "gewichtung": 3.5,
       "optionen": [
-        "Der Pharao sprach sich mit dem Volk über neue Gesetze ab.",
-        "Der Pharao sorgte durch Gesetze für Frieden und Ordnung.",
-        "Eine der wohl wichtigsten Aufgaben des Pharaos war es aber sein Volk zu beschützen.",
-        "Der Pharao war nicht zuständig bei Straftaten innerhalb des Landes.",
-        "Der Pharao sollte die Menschen für die Götter bestrafen.",
-        "Der Pharao befahl den Bau von Pyramiden.",
-        "Der Pharao stand an der Spitze der Gesellschaftspyramide in Ägypten."
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
       ],
       "antworten": [
-        "Der Pharao sorgte durch Gesetze für Frieden und Ordnung.",
-        "Eine der wohl wichtigsten Aufgaben des Pharaos war es aber sein Volk zu beschützen.",
-        "Der Pharao befahl den Bau von Pyramiden.",
-        "Der Pharao stand an der Spitze der Gesellschaftspyramide in Ägypten."
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
       ],
-      "id": "39847971-65e4-4d59-ad70-d47b1712a1f2",
+      "id": "5635e113-f3e3-4e39-b0be-dfcda4aed9f1",
       "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
-      "frage": "Beschreibe die Gesellschaftsstruktur im alten Ägypten. ",
+      "frage": "Ordne die Phasen des Wasserkreislaufs in der richtigen Reihenfolge.",
+      "typ": "zuordnung",
+      "gewichtung": 3.5,
+      "antworten": {
+        "1": "Durch die Wärme verdunstet Wasser, vor allem über Seen, Flüssen und über dem Meer.",
+        "2": "Unsichtbar steigt es als Wasserdampf nach oben.",
+        "3": "Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige Wassertröpfchen. Man nennt diesen Vorgang auch kondensieren.",
+        "4": "Viele von diesen Wassertröpfchen bilden zusammen eine Wolke.",
+        "5": "Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man Niederschlag.",
+        "6": "Sie versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn."
+      },
+      "id": "53f9341f-4ec9-47dd-9fc7-65785efe00e6",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
+      "typ": "aufsatz",
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat sich über Nacht durch die Kälte ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, hat der Druck die Flaschen zum Platzen gebracht.",
+      "id": "73aa2203-af37-474b-8aa5-896f8351c4fd",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
       "typ": "offen",
-      "gewichtung": 5.0,
-      "antwort": "Von oben nach unten: Pharao, Hohe Beamte und Priester, Soldaten, Handwerker, Bauern und Sklaven.",
-      "id": "ff4533b7-ed5e-4356-b2c7-5704f0cd631a",
-      "vorschau": "(Freitextantwort)",
-      "bild_url": "",
-      "bild": null
+      "gewichtung": 2,
+      "antwort": "Das Beschlagen der Brille ist ein Beispiel für Kondensation. Wenn Susi aus der kalten Umgebung ins warme Schulhaus kommt, erwärmt sich die Luftfeuchtigkeit auf ihrer Brille und verwandelt sich in kleine Wassertropfen. Diese Wassertropfen lassen die Brille beschlagen.",
+      "id": "bc703a5c-b2fd-4884-855a-d141fc69d386",
+      "vorschau": "(Freitextantwort)"
     }
   ],
   "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
