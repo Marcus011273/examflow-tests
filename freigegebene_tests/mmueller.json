@@ -1,26 +1,31 @@
 {
   "veröffentlicht": true,
-  "titel": "Wasser4",
+  "titel": "Water",
   "fragenpool": [
     {
       "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
       "typ": "tabelle",
-      "gewichtung": 3.0,
+      "gewichtung": 3,
       "spalten": [
         "Zustandsform",
         "Bezeichnung"
       ],
-      "zeilen": 3,
-      "id": "11af17f3-1692-4632-bb94-a40a07ee3c75",
-      "vorschau": "Tabelle mit Eingabefeldern",
-      "bild_url": "",
-      "bild": null,
-      "rand": [
-        "Zeile 1",
-        "Zeile 2",
-        "Zeile 3"
+      "zeilen": [
+        [
+          "fest",
+          "Eis"
+        ],
+        [
+          "flüssig",
+          "Wasser"
+        ],
+        [
+          "gasförmig",
+          "Wasserdampf"
+        ]
       ],
-      "zellen": []
+      "id": "112f3f0e-6084-4513-b59f-8e032bb4d806",
+      "vorschau": "Tabelle mit Eingabefeldern"
     },
     {
       "frage": "Wähle die richtigen Aussagen aus.",
@@ -43,39 +48,47 @@
         "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
         "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
       ],
-      "id": "5635e113-f3e3-4e39-b0be-dfcda4aed9f1",
+      "id": "f7d7672f-3f5c-4a34-bb8c-7e7c7be9ee85",
       "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
-      "frage": "Ordne die Phasen des Wasserkreislaufs in der richtigen Reihenfolge.",
+      "frage": "Ordne die einzelnen Phasen des Wasserkreislaufs in der richtigen Reihenfolge.",
       "typ": "zuordnung",
       "gewichtung": 3.5,
       "antworten": {
-        "1": "Durch die Wärme verdunstet Wasser, vor allem über Seen, Flüssen und über dem Meer.",
-        "2": "Unsichtbar steigt es als Wasserdampf nach oben.",
-        "3": "Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige Wassertröpfchen. Man nennt diesen Vorgang auch kondensieren.",
-        "4": "Viele von diesen Wassertröpfchen bilden zusammen eine Wolke.",
-        "5": "Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man Niederschlag.",
-        "6": "Sie versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn."
+        "Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man": "Niederschlag",
+        "Durch die Wärme": "verdunstet",
+        "Wasser, vor allem über Seen, Flüssen und über dem Meer.": "Meer",
+        "Wenn die Sonne scheint,": "erwärmt",
+        "sie die Erdoberfläche.": "Wasserdampf",
+        "Sie": "versickern",
+        "im Boden oder fließen mit Bächen und Flüssen ins": "Meer",
+        "zurück. Dann beginnt der": "Wasserkreislauf",
+        "von vorn.": "Wasserkreislauf",
+        "Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige": "Wassertröpfchen",
+        "Man nennt diesen Vorgang auch": "kondensieren",
+        "Unsichtbar steigt es als": "Wasserdampf",
+        "nach oben.": "Wasserdampf",
+        "Viele von diesen Wassertröpfchen bilden zusammen eine": "Wolke"
       },
-      "id": "53f9341f-4ec9-47dd-9fc7-65785efe00e6",
+      "id": "ae8b38e8-05a9-47ee-af19-e26f7722ddc5",
       "vorschau": "Begriffe zu Kategorien zuordnen"
     },
     {
       "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
       "typ": "aufsatz",
       "gewichtung": 2,
-      "antwort": "Das Wasser in den Flaschen hat sich über Nacht durch die Kälte ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, hat der Druck die Flaschen zum Platzen gebracht.",
-      "id": "73aa2203-af37-474b-8aa5-896f8351c4fd",
+      "antwort": "Das Wasser in den Flaschen hat sich bei den niedrigen Temperaturen in der Nacht ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, konnte das Wasser nicht ausweichen und hat die Flaschen zum Platzen gebracht.",
+      "id": "73629b05-5e79-4f92-af54-35b0dea2f8d1",
       "vorschau": "(digitaler Aufsatz – längere Eingabe)"
     },
     {
       "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
-      "typ": "offen",
+      "typ": "aufsatz",
       "gewichtung": 2,
-      "antwort": "Das Beschlagen der Brille ist ein Beispiel für Kondensation. Wenn Susi aus der kalten Umgebung ins warme Schulhaus kommt, erwärmt sich die Luftfeuchtigkeit auf ihrer Brille und verwandelt sich in kleine Wassertropfen. Diese Wassertropfen lassen die Brille beschlagen.",
-      "id": "bc703a5c-b2fd-4884-855a-d141fc69d386",
-      "vorschau": "(Freitextantwort)"
+      "antwort": "Wenn Susi vom kalten Pausenhof ins warme Schulhaus kommt, erwärmt sich die Luft um ihre Brille schneller als die Gläser ihrer Brille. Die warme Luft kann mehr Feuchtigkeit aufnehmen als kalte. Wenn die warme, feuchte Luft auf die kalten Brillengläser trifft, kühlt die Luft ab und kann weniger Feuchtigkeit halten. Die überschüssige Feuchtigkeit kondensiert auf den Brillengläsern und lässt sie beschlagen. Dieser Prozess wird als Kondensation bezeichnet.",
+      "id": "f92b1874-59fb-485c-88cc-9c78f0bf99d3",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
     }
   ],
   "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
