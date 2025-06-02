@@ -1,0 +1,116 @@
+{
+  "veröffentlicht": true,
+  "titel": "Wasser5",
+  "fragenpool": [
+    {
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen. Erläutere genau",
+      "typ": "tabelle",
+      "gewichtung": 3.0,
+      "spalten": [
+        "Zustandsform",
+        "Bezeichnung"
+      ],
+      "zeilen": 2,
+      "id": "127a23f7-64e3-4f7e-9172-35a6bb076bee",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "bild_url": "",
+      "bild": null,
+      "rand": [
+        "Zeile 1",
+        "Zeile 2"
+      ],
+      "zellen": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "frage": "Wähle die richtigen Aussagen aus.",
+      "typ": "multi_select",
+      "gewichtung": 3.5,
+      "optionen": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "antworten": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "id": "27d51eb1-bcaf-42d3-91fb-fbbf21e1c884",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Bringe die folgenden Schritte des Wasserkreislaufs in die richtige Reihenfolge.",
+      "typ": "tabelle",
+      "gewichtung": 3.5,
+      "spalten": [
+        "Schritt",
+        "Beschreibung"
+      ],
+      "zeilen": [
+        [
+          "1",
+          "Die Sonne erwärmt die Erdoberfläche."
+        ],
+        [
+          "2",
+          "Wasser verdunstet über dem Meer."
+        ],
+        [
+          "3",
+          "Wasserdampf steigt auf."
+        ],
+        [
+          "4",
+          "Der Dampf kondensiert zu Wassertröpfchen."
+        ],
+        [
+          "5",
+          "Es entsteht eine Wolke."
+        ],
+        [
+          "6",
+          "Die Tröpfchen fallen als Niederschlag."
+        ],
+        [
+          "7",
+          "Das Wasser versickert oder fließt zurück ins Meer."
+        ]
+      ],
+      "id": "323f752e-644b-4d44-b773-8c7a8a6acf80",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
+      "typ": "aufsatz",
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat sich bei den niedrigen Temperaturen ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, konnte das Wasser nicht ausweichen und hat die Flaschen zum Platzen gebracht.",
+      "id": "6e391df1-2473-4eea-8a6a-0c418fb830ce",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Wenn Susi vom kalten Pausenhof ins warme Schulhaus kommt, erwärmt sich die Luft in der Nähe ihrer Brille schnell. Warme Luft kann mehr Feuchtigkeit aufnehmen als kalte. Wenn die warme, feuchte Luft auf die kalte Brille trifft, kühlt sie ab und kann nicht mehr so viel Feuchtigkeit halten. Die überschüssige Feuchtigkeit kondensiert auf der Brille und lässt sie beschlagen.",
+      "id": "6eabad47-baf4-4b41-b627-c5f6e3047550",
+      "vorschau": "(Freitextantwort)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
