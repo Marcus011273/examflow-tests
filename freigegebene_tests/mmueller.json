@@ -1,6 +1,17 @@
 {
-  "veröffentlicht": false,
-  "titel": "",
-  "fragenpool": [],
-  "upload_link": ""
+  "veröffentlicht": true,
+  "titel": "Wassser44",
+  "fragenpool": [
+    {
+      "id": "991e2b7a-96a5-4e57-a2e0-7c1fb55f747f",
+      "frage": "sdfdfdfds",
+      "typ": "offen",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/ecSUpvapuNIwWUl"
 }
