@@ -1,0 +1,113 @@
+{
+  "veröffentlicht": true,
+  "titel": "Wasser",
+  "fragenpool": [
+    {
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
+      "typ": "tabelle",
+      "gewichtung": 3,
+      "spalten": [
+        "Zustandsform",
+        "Bezeichnung"
+      ],
+      "zeilen": [
+        [
+          "fest",
+          "Eis"
+        ],
+        [
+          "flüssig",
+          "Wasser"
+        ],
+        [
+          "gasförmig",
+          "Wasserdampf"
+        ]
+      ],
+      "id": "fcbc9327-a16e-4390-8c1f-39d203ae2c3c",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Wähle die richtigen Aussagen aus.",
+      "typ": "multi_select",
+      "gewichtung": 3.5,
+      "optionen": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "antworten": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "id": "22490532-3d13-45ed-b9f1-704ad1942144",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Bringe die folgenden Schritte des Wasserkreislaufs in die richtige Reihenfolge.",
+      "typ": "tabelle",
+      "gewichtung": 3.5,
+      "spalten": [
+        "Schritt",
+        "Beschreibung"
+      ],
+      "zeilen": [
+        [
+          "1",
+          "Die Sonne erwärmt die Erdoberfläche."
+        ],
+        [
+          "2",
+          "Wasser verdunstet über dem Meer."
+        ],
+        [
+          "3",
+          "Wasserdampf steigt auf."
+        ],
+        [
+          "4",
+          "Der Dampf kondensiert zu Wassertröpfchen."
+        ],
+        [
+          "5",
+          "Es entsteht eine Wolke."
+        ],
+        [
+          "6",
+          "Die Tröpfchen fallen als Niederschlag."
+        ],
+        [
+          "7",
+          "Das Wasser versickert oder fließt zurück ins Meer."
+        ]
+      ],
+      "id": "c04fad3e-87ad-490c-990e-0e44ed529ec0",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist.",
+      "typ": "aufsatz",
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat sich bei den niedrigen Temperaturen in der Nacht zu Eis ausgedehnt. Da Eis ein größeres Volumen als Wasser hat, hat es die Flaschen von innen gesprengt.",
+      "id": "0a7fe881-488c-4b62-b6fd-97520ec03311",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Das Beschlagen der Brille ist auf Kondensation zurückzuführen. Wenn Susi von der kalten Außentemperatur in das warme Schulhaus kommt, erwärmt sich die Luftfeuchtigkeit auf ihrer Brille und kondensiert zu kleinen Wassertröpfchen, die die Brille beschlagen.",
+      "id": "c937f614-2771-4ed4-9a79-a557574041f1",
+      "vorschau": "(Freitextantwort)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
