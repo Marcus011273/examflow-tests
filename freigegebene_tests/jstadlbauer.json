@@ -1,128 +1,105 @@
 {
   "veröffentlicht": true,
-  "titel": "Imperialismus und Kolonialisierung",
+  "titel": "Industrialisierung",
   "fragenpool": [
     {
-      "id": "f6b3db68-fcb5-4c8c-b720-8320ab927f77",
-      "frage": "Was versteht man unter „Imperialismus“?",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Imperialismus ist das Streben von Staaten, ihre Macht weit über die eigenen Grenzen hinaus auszudehnen und fremde Gebiete zu kontrollieren."
-    },
-    {
-      "id": "db4f5c4e-4ab4-43e5-9e0d-eaafdd1c7687",
-      "frage": "Welche Gründe führten zur Kolonialisierung Afrikas? (Mehrfachnennung möglich)",
-      "typ": "multi_select",
-      "gewichtung": 2,
-      "optionen": [
-        "Wirtschaftliche Interessen",
-        "Christliche Missionierung",
-        "Freundschaft mit afrikanischen Völkern",
-        "Politisches Ansehen"
-      ],
-      "antworten": [
-        "Wirtschaftliche Interessen",
-        "Christliche Missionierung",
-        "Politisches Ansehen"
-      ]
-    },
-    {
-      "id": "3e441820-6cd2-4ae1-88cf-2bde2ab6fc4e",
-      "frage": "Wie verhielten sich deutsche Kolonialherren gegenüber der afrikanischen Bevölkerung?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Sie unterdrückten die Bevölkerung, zwangen sie zur Arbeit, nahmen ihnen das Land und behandelten sie wie Menschen zweiter Klasse."
-    },
-    {
-      "id": "c29d6d2a-f775-4a7e-8034-1719a84a0e0f",
-      "frage": "Der Herero-Aufstand im Jahr 1904 war eine Reaktion auf ...",
+      "id": "2ea5a325-14e4-4146-82af-4127b1d67854",
+      "frage": "Wann begann die Industrialisierung in Deutschland?",
       "typ": "single_choice",
       "gewichtung": 1,
       "optionen": [
-        "eine Naturkatastrophe",
-        "unzumutbare Lebensbedingungen durch die Deutschen",
-        "eine Einladung zur Zusammenarbeit",
-        "eine religiöse Bewegung"
+        "um 1750",
+        "um 1800",
+        "um 1850",
+        "um 1900"
       ],
-      "antwort": "unzumutbare Lebensbedingungen durch die Deutschen"
+      "antwort": "B"
     },
     {
-      "id": "64aef24e-2b7f-41c0-9909-93028ed7eb1c",
-      "frage": "Bewerte die Vorgehensweise der deutschen Soldaten bei der Niederschlagung des Herero-Aufstands.",
-      "typ": "aufsatz",
-      "gewichtung": 3,
-      "antwort": "Die deutsche Armee trieb die Herero in die Wüste, wo viele verdursteten. Das brutale Vorgehen wird heute als Völkermord bezeichnet."
-    },
-    {
-      "id": "61b82a57-4949-4d5c-b71a-bf37f25db00d",
-      "frage": "Ordne den Aussagen die passende Kategorie zu.",
-      "typ": "zuordnung",
-      "gewichtung": 3,
-      "antworten": {
-        "Kaffee, Kakao und Gewürze": "Wirtschaftliche Gründe",
-        "Missionierung der Ureinwohner": "Religiöse Gründe",
-        "Mehr Kolonien = mehr Macht": "Politische Gründe"
-      }
-    },
-    {
-      "id": "a017a3b7-84c1-486a-85a5-c00d68d04028",
-      "frage": "Der Text lautet: Die deutsche Kolonialzeit endete mit dem ______ des Ersten Weltkriegs. Nur wenige ______ später fielen die ersten Kolonien an ______.",
+      "id": "ab7bc11d-e692-4ba3-aac0-7b98b2b1f21a",
+      "frage": "Die Erfindung der __________ durch James Watt war ein wichtiger Fortschritt.",
       "typ": "lückentext",
       "gewichtung": 2,
       "antwort": [
-        "Beginn",
-        "Monate",
-        "Frankreich"
+        "Dampfmaschine"
       ]
     },
     {
-      "id": "a4c4b0f7-9a35-4e69-b359-3d8eeb8e88f6",
-      "frage": "Welche Aussagen zum Verhalten deutscher Kolonialisten sind zutreffend?",
+      "id": "0a93b0b4-ddbc-497f-a150-da394dad1eb0",
+      "frage": "Erkläre den Begriff „Industrialisierung“.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Der Übergang von Handarbeit zu Maschinenarbeit in Fabriken."
+    },
+    {
+      "id": "4f4dd0f3-199b-4e8c-bb1b-85ce111efe04",
+      "frage": "Welche Erfindungen waren wichtig für die Industrialisierung?",
       "typ": "multi_select",
       "gewichtung": 2,
       "optionen": [
-        "Sie ließen Dörfer niederbrennen.",
-        "Sie schlossen faire Verträge.",
-        "Sie zwangen den Menschen ihre Kultur auf.",
-        "Sie unterstützten die Einheimischen beim Aufbau eigener Staaten."
+        "Fernseher",
+        "Dampfmaschine",
+        "Smartphone",
+        "Spinnmaschine"
       ],
       "antworten": [
-        "Sie ließen Dörfer niederbrennen.",
-        "Sie zwangen den Menschen ihre Kultur auf."
+        "Dampfmaschine",
+        "Spinnmaschine"
       ]
     },
     {
-      "id": "e7c066a1-fb98-4df5-88e1-2e9619a497d6",
-      "frage": "Die Kongokonferenz fand von 1884–1885 in Berlin statt.",
+      "id": "5640914a-83cc-4cfe-96d0-dadb2a71dea7",
+      "frage": "Die Industrialisierung führte zu mehr Arbeitsplätzen in den Städten.",
       "typ": "wahr_falsch",
       "gewichtung": 1,
       "antwort": "wahr",
       "antworten": {}
     },
     {
-      "id": "8974dbe7-2d7a-4cb2-9a6a-b47c259a0ae2",
-      "frage": "Welche Aussagen zum Verhalten der Herero im Jahr 1904 sind richtig?",
-      "typ": "tabelle",
+      "id": "415b8911-65b8-48f1-bf1d-0b1a33fe81d7",
+      "frage": "Ordne die Begriffe dem passenden Bereich zu.",
+      "typ": "zuordnung",
       "gewichtung": 3,
-      "spalten": [
-        "Aussage",
-        "Wahr oder Falsch"
+      "antworten": {
+        "Spinnmaschine": "Textilindustrie",
+        "Lokomotive": "Verkehr",
+        "Kohlemine": "Rohstoffgewinnung"
+      }
+    },
+    {
+      "id": "43173a35-ecec-4206-8ecf-3b9a6f2ffa21",
+      "frage": "Welche Bevölkerungsgruppe profitierte zuerst am meisten von der Industrialisierung?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Fabrikbesitzer",
+        "Arbeiter",
+        "Kinder",
+        "Bauern"
       ],
-      "zeilen": [
-        [
-          "Die Herero griffen deutsche Farmen an.",
-          "Wahr"
-        ],
-        [
-          "Die Herero wurden in die Wüste getrieben.",
-          "Wahr"
-        ],
-        [
-          "Die Herero kämpften mit modernen Waffen.",
-          "Falsch"
-        ]
-      ],
-      "zellen": []
+      "antwort": "A"
+    },
+    {
+      "id": "170b59ab-943a-45be-bf17-795b8ef68b16",
+      "frage": "Beschreibe zwei Lebensbedingungen der Arbeiter in den Fabriken.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Lange Arbeitszeiten und schlechte Arbeitsbedingungen."
+    },
+    {
+      "id": "fc630069-d444-433c-9411-dfbf8b03adf0",
+      "frage": "Vergleiche das Leben eines Bauern vor der Industrialisierung mit dem eines Arbeiters danach.",
+      "typ": "aufsatz",
+      "gewichtung": 4,
+      "antwort": "Bauern lebten meist auf dem Land und arbeiteten in der Landwirtschaft, während Arbeiter in Fabriken in Städten arbeiteten und von Löhnen abhängig waren."
+    },
+    {
+      "id": "3af91d3c-23c8-49f3-a973-91a1209889b9",
+      "frage": "Kinderarbeit war während der Industrialisierung verboten.",
+      "typ": "wahr_falsch",
+      "gewichtung": 2,
+      "antwort": "falsch",
+      "antworten": {}
     }
   ],
   "upload_link": "https://2267.drive.bycs.de/s/uapRhNjYabtbfaI"
