@@ -1,0 +1,96 @@
+{
+  "veröffentlicht": true,
+  "titel": "",
+  "fragenpool": [
+    {
+      "id": "2cbb8e0c-63ab-4d23-b42e-694bc40f9a4e",
+      "frage": "Wie nennt man den typischen Aufbau einer Kurzgeschichte?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "antwort": "C",
+      "optionen": [
+        "A: Einstieg – Wendepunkt – Ende",
+        "B: Einführung – Konflikt – Lösung",
+        "C: Einleitung – Hauptteil – Schluss"
+      ]
+    },
+    {
+      "id": "1738489f-87ff-4208-b93a-d9bed4ac653e",
+      "frage": "Die Hauptfigur einer Kurzgeschichte hat meist __________________ und erlebt __________________.",
+      "typ": "lückentext",
+      "gewichtung": 2,
+      "antwort": [
+        "keinen Namen",
+        "eine alltägliche Begebenheit"
+      ]
+    },
+    {
+      "id": "d118f67a-15d7-4d27-b143-db24f8ad02dc",
+      "frage": "Ordne den Textausschnitten die passenden Merkmale einer Kurzgeschichte zu.",
+      "typ": "zuordnung",
+      "gewichtung": 3,
+      "antworten": {
+        "Mitten im Geschehen": "offener Anfang",
+        "Kein Name des Protagonisten": "anonyme Figur"
+      }
+    },
+    {
+      "id": "73ec82c2-dd68-4134-be44-6ff01c73b3d1",
+      "frage": "Welche Merkmale treffen typischerweise auf Kurzgeschichten zu?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "antworten": [
+        "offener Anfang",
+        "plötzlicher Schluss"
+      ],
+      "optionen": [
+        "Reimstruktur",
+        "offener Anfang",
+        "plötzlicher Schluss",
+        "Kapitelstruktur"
+      ]
+    },
+    {
+      "id": "7232c175-2a8a-4a03-b7fb-153522ac382b",
+      "frage": "Erkläre, warum eine Kurzgeschichte oft in Alltagssituationen spielt.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Damit sich Leser:innen mit der Handlung identifizieren können."
+    },
+    {
+      "id": "c9e93513-a45a-4087-a92a-81fd121737f9",
+      "frage": "Eine Kurzgeschichte darf maximal 100 Wörter lang sein.",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "antworten": {}
+    },
+    {
+      "id": "ca9bcd6f-c2f3-46cf-b01c-1e3e09ea0589",
+      "frage": "Analysiere die Kurzgeschichte „Die Küchenuhr“ von Borchert hinsichtlich der erzählerischen Mittel.",
+      "typ": "aufsatz",
+      "gewichtung": 5,
+      "antwort": "Die Geschichte verwendet einfache Sprache, kurze Sätze und symbolträchtige Gegenstände wie die Uhr."
+    },
+    {
+      "id": "0c9fda58-49c1-4173-ace5-07def46f2611",
+      "frage": "Warum wird die Zeit in der Kurzgeschichte „Die Küchenuhr“ symbolisch verwendet?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "antwort": "A",
+      "optionen": [
+        "A: Sie steht für verlorene Zeit durch den Krieg",
+        "B: Sie zeigt immer Mitternacht an",
+        "C: Sie funktioniert nicht mehr richtig"
+      ]
+    },
+    {
+      "id": "768dddd9-229f-436f-9f18-599fdc63a7fb",
+      "frage": "Vergleiche zwei Kurzgeschichten deiner Wahl hinsichtlich Aufbau und Thema.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Beide Texte beginnen ohne Einleitung und thematisieren Verlust auf unterschiedliche Weise."
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/qUTsqGEgZyCPqLw"
+}
