@@ -1,105 +1,361 @@
 {
   "veröffentlicht": true,
-  "titel": "Industrialisierung",
+  "titel": "Geschichte PC",
   "fragenpool": [
     {
-      "id": "2ea5a325-14e4-4146-82af-4127b1d67854",
-      "frage": "Wann begann die Industrialisierung in Deutschland?",
+      "frage": "Fülle die Lücken mit passenden Begriffen aus.\na) Vor Computern nutzten die Menschen _____________________ zum Rechnen.\nb) Früher wurden Menschen, die Rechenmaschinen bedienten, _________________ genannt.\nc) Unser heutiges Zeitalter nennt man das _____________________________.\nd) Der erste Heimcomputer-Bausatz hieß _____________________ .\ne) Ein wichtiger Computerpionier aus Deutschland war ______________________.\nf) Die Maschine, die er baute, hieß ______________________.",
+      "typ": "lückentext",
+      "gewichtung": 6,
+      "antwort": "a) Rechenmaschinen\nb) Computeroperatoren\nc) Informationszeitalter\nd) Altair 8800\ne) Konrad Zuse\nf) Z3",
+      "id": "0b348c9e-00a8-4cbd-82c0-f8d79b63f888",
+      "vorschau": "Fülle die Lücken mit passenden Begriffen aus.\na) Vor Computern nutzten die Menschen [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] zum Rechnen.\nb) Früher wurden Menschen, die Rechenmaschinen bedienten, [Lücke][Lücke][Lücke][Lücke][Lücke]__ genannt.\nc) Unser heutiges Zeitalter nennt man das [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__.\nd) Der erste Heimcomputer-Bausatz hieß [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] .\ne) Ein wichtiger Computerpionier aus Deutschland war [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_.\nf) Die Maschine, die er baute, hieß [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_."
+    },
+    {
+      "frage": "In welchem Jahrzehnt wurde der Mikroprozessor erfunden?",
       "typ": "single_choice",
       "gewichtung": 1,
       "optionen": [
-        "um 1750",
-        "um 1800",
-        "um 1850",
-        "um 1900"
+        "1960er",
+        "1970er",
+        "1980er",
+        "1990er"
       ],
-      "antwort": "B"
+      "antwort": "1970er",
+      "id": "ebcf40f5-4631-4830-b7e6-221a6e3604d9",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
     },
     {
-      "id": "ab7bc11d-e692-4ba3-aac0-7b98b2b1f21a",
-      "frage": "Die Erfindung der __________ durch James Watt war ein wichtiger Fortschritt.",
-      "typ": "lückentext",
-      "gewichtung": 2,
-      "antwort": [
-        "Dampfmaschine"
-      ]
-    },
-    {
-      "id": "0a93b0b4-ddbc-497f-a150-da394dad1eb0",
-      "frage": "Erkläre den Begriff „Industrialisierung“.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Der Übergang von Handarbeit zu Maschinenarbeit in Fabriken."
-    },
-    {
-      "id": "4f4dd0f3-199b-4e8c-bb1b-85ce111efe04",
-      "frage": "Welche Erfindungen waren wichtig für die Industrialisierung?",
-      "typ": "multi_select",
-      "gewichtung": 2,
+      "frage": "Wer entwickelte eine Software, mit der viele Menschen PCs bedienen konnten?",
+      "typ": "single_choice",
+      "gewichtung": 1,
       "optionen": [
-        "Fernseher",
-        "Dampfmaschine",
-        "Smartphone",
-        "Spinnmaschine"
+        "Steve Jobs",
+        "Steve Wozniak",
+        "Bill Gates",
+        "Ron Wayne"
       ],
-      "antworten": [
-        "Dampfmaschine",
-        "Spinnmaschine"
-      ]
+      "antwort": "Bill Gates",
+      "id": "0693398e-1f26-42ab-b04f-061ccfe15175",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
     },
     {
-      "id": "5640914a-83cc-4cfe-96d0-dadb2a71dea7",
-      "frage": "Die Industrialisierung führte zu mehr Arbeitsplätzen in den Städten.",
+      "frage": "Welcher Begriff gehört zum Internetdienst?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Commodore VC20",
+        "World Wide Web",
+        "iMac",
+        "Mikroprozessor"
+      ],
+      "antwort": "World Wide Web",
+      "id": "a300d117-5d11-4471-968d-9bcc955fee9b",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Welches Unternehmen wurde 1976 in einer Garage gegründet?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "IBM",
+        "Apple",
+        "Microsoft",
+        "Google"
+      ],
+      "antwort": "Apple",
+      "id": "315506d5-d559-4cce-8e1c-2f1cadb499f6",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Kreuze an, ob die Aussagen richtig oder falsch sind:",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "Die Antwort hängt von der nicht angegebenen Aussage ab.",
+      "id": "c5710076-7885-4b4e-a8ea-cda3354faf7f",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ist die Aussage wahr oder falsch: Der erste Heimcomputer hatte keine Maus oder Tastatur.",
       "typ": "wahr_falsch",
       "gewichtung": 1,
       "antwort": "wahr",
+      "id": "9630fe27-36a3-425f-a5a9-4431bf96eb3e",
+      "vorschau": "☐ wahr   ☐ falsch",
       "antworten": {}
     },
     {
-      "id": "415b8911-65b8-48f1-bf1d-0b1a33fe81d7",
-      "frage": "Ordne die Begriffe dem passenden Bereich zu.",
+      "frage": "Ist die Aussage wahr oder falsch: Die PCs wurden erst in Firmen vernetzt, dann weltweit.",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "2ca59eac-8baa-4a50-b403-e0d51de42259",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ist die Aussage wahr oder falsch: Die Z3 war ein mechanischer Taschenrechner.",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "ca713e25-3c5e-4a7a-913f-1b156317867d",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ist die Aussage wahr oder falsch: Der Begriff „Computer“ kommt vom lateinischen „computo“.",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "b3b779d1-5b88-4b50-b559-f31a6a1def7c",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ist die Aussage wahr oder falsch: iMacs wurden bereits 1980 verkauft.",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "b8a747b7-6490-4eae-8271-8ec4b000ff18",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Erkläre in eigenen Worten, warum Computer heute aus unserem Alltag nicht mehr wegzudenken sind.",
+      "typ": "aufsatz",
+      "gewichtung": 3,
+      "antwort": "Computer sind heute in fast allen Bereichen unseres Lebens präsent. Sie erleichtern uns die Arbeit, ermöglichen uns den Zugang zu Informationen und Unterhaltung und sind ein wichtiges Werkzeug für Kommunikation und soziale Interaktion. Ohne sie wäre unser Alltag deutlich komplizierter und weniger effizient.",
+      "id": "771e11bc-8c26-47ff-a599-e0d30d90cfc4",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Fülle die Lücken: a) EVAS steht für ____. b) Das EVA-Prinzip beschreibt die ____ eines Computers. c) Der Prozessor greift bei der Verarbeitung auf den ____ zu. d) Die Ausgabe erfolgt z. B. über den ____.",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antworten": {
+        "a": "Eingabe, Verarbeitung, Ausgabe, Speicherung",
+        "b": "Funktionsweise",
+        "c": "Arbeitsspeicher",
+        "d": "Monitor"
+      },
+      "id": "815f15b6-b3fc-4e68-914a-da83c999e589",
+      "vorschau": "Fülle die Lücken: a) EVAS steht für [Lücke]_. b) Das EVA-Prinzip beschreibt die [Lücke]_ eines Computers. c) Der Prozessor greift bei der Verarbeitung auf den [Lücke]_ zu. d) Die Ausgabe erfolgt z. B. über den [Lücke]_."
+    },
+    {
+      "frage": "Ordne die Geräte dem richtigen Bereich des EVA-Prinzips zu.",
       "typ": "zuordnung",
       "gewichtung": 3,
       "antworten": {
-        "Spinnmaschine": "Textilindustrie",
-        "Lokomotive": "Verkehr",
-        "Kohlemine": "Rohstoffgewinnung"
-      }
+        "Tastatur": "Eingabe",
+        "Prozessor": "Verarbeitung",
+        "Monitor": "Ausgabe",
+        "Festplatte": "Speicherung"
+      },
+      "id": "dea9e0bb-315c-420a-85b6-d7dca6a2f66b",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
     },
     {
-      "id": "43173a35-ecec-4206-8ecf-3b9a6f2ffa21",
-      "frage": "Welche Bevölkerungsgruppe profitierte zuerst am meisten von der Industrialisierung?",
-      "typ": "single_choice",
-      "gewichtung": 1,
+      "frage": "Kreuze die richtigen Aussagen an: Allgemein gilt für das EVA(S)-Prinzip",
+      "typ": "multi_select",
+      "gewichtung": 2,
       "optionen": [
-        "Fabrikbesitzer",
-        "Arbeiter",
-        "Kinder",
-        "Bauern"
+        "Die Ausgabe erfolgt immer über Drucker.",
+        "Eingabe erfolgt durch Geräte wie Maus oder Tastatur.",
+        "Die Verarbeitung übernimmt der USB-Stick.",
+        "Der Prozessor führt Rechenoperationen durch.",
+        "Die Speicherung gehört nicht zum EVA-Prinzip."
       ],
-      "antwort": "A"
+      "antworten": [
+        "Eingabe erfolgt durch Geräte wie Maus oder Tastatur.",
+        "Der Prozessor führt Rechenoperationen durch."
+      ],
+      "id": "5a31091f-ec51-429a-bfa2-bf9ae993e520",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
-      "id": "170b59ab-943a-45be-bf17-795b8ef68b16",
-      "frage": "Beschreibe zwei Lebensbedingungen der Arbeiter in den Fabriken.",
-      "typ": "offen",
+      "frage": "Welche Geräte zählen zur Eingabe?",
+      "typ": "multi_select",
       "gewichtung": 2,
-      "antwort": "Lange Arbeitszeiten und schlechte Arbeitsbedingungen."
+      "optionen": [
+        "Bildschirm",
+        "Mikrofon",
+        "Tastatur",
+        "Lautsprecher"
+      ],
+      "antworten": [
+        "Mikrofon",
+        "Tastatur"
+      ],
+      "id": "0f4df190-f938-4316-beb9-0eb6e74b6a00",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
-      "id": "fc630069-d444-433c-9411-dfbf8b03adf0",
-      "frage": "Vergleiche das Leben eines Bauern vor der Industrialisierung mit dem eines Arbeiters danach.",
-      "typ": "aufsatz",
-      "gewichtung": 4,
-      "antwort": "Bauern lebten meist auf dem Land und arbeiteten in der Landwirtschaft, während Arbeiter in Fabriken in Städten arbeiteten und von Löhnen abhängig waren."
+      "frage": "Welche Aussage zum Prozessor ist richtig?",
+      "typ": "single_choice",
+      "gewichtung": 2,
+      "optionen": [
+        "Der Prozessor speichert dauerhaft alle Daten.",
+        "Der Prozessor steuert die Eingabe- und Ausgabegeräte.",
+        "Der Prozessor verarbeitet Informationen und Befehle.",
+        "Der Prozessor zeigt Programme auf dem Bildschirm an."
+      ],
+      "antwort": "Der Prozessor verarbeitet Informationen und Befehle.",
+      "id": "7731a589-d336-4736-b7ea-b1dc6d521f6f",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
     },
     {
-      "id": "3af91d3c-23c8-49f3-a973-91a1209889b9",
-      "frage": "Kinderarbeit war während der Industrialisierung verboten.",
+      "frage": "Was ist ein typisches Gerät zur Speicherung?",
+      "typ": "single_choice",
+      "gewichtung": 2,
+      "optionen": [
+        "USB-Stick",
+        "Arbeitsspeicher (RAM)",
+        "Drucker",
+        "Webcam"
+      ],
+      "antwort": "USB-Stick",
+      "id": "4ee42d8b-51da-47e0-81e4-196f24f596f1",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Der erste Heimcomputer hatte keine Maus oder Tastatur. Ist diese Aussage wahr oder falsch?",
       "typ": "wahr_falsch",
-      "gewichtung": 2,
-      "antwort": "falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "b2063ee9-7a72-4b56-8b3d-715d50a86a84",
+      "vorschau": "☐ wahr   ☐ falsch",
       "antworten": {}
+    },
+    {
+      "frage": "Die PCs wurden erst in Firmen vernetzt, dann weltweit. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "5881f1e8-f18a-48e1-842a-8768ae1baa5f",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Die Z3 war ein mechanischer Taschenrechner. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "531523aa-a165-4056-9484-ba054bead1d1",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Der Begriff „Computer“ kommt vom lateinischen „computo“. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "286270ac-c8ab-406e-87b3-a7702fc0e613",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "iMacs wurden bereits 1980 verkauft. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "0bef2c4f-18dd-4345-b1fd-998534d03b6d",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Erkläre, warum Computer in der Schule, bei der Arbeit und zu Hause benutzt werden und warum viele Dienste wie Online-Shopping oder Kommunikation nur digital funktionieren.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Computer werden in der Schule, bei der Arbeit und zu Hause benutzt, weil sie eine Vielzahl von Aufgaben vereinfachen und beschleunigen. Sie ermöglichen den Zugriff auf eine Fülle von Informationen und Diensten, die Kommunikation mit Menschen auf der ganzen Welt und die Durchführung komplexer Berechnungen und Analysen. Viele Dienste wie Online-Shopping oder Kommunikation sind auf digitale Technologien angewiesen, da sie Informationen in Echtzeit übertragen und verarbeiten müssen.",
+      "id": "973af57f-e7c1-4844-808d-589f4e292a31",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Fülle die Lücken: Eingabe, Verarbeitung, Ausgabe, Speicherung sind die vier Hauptkomponenten des ________-Prinzips. Die Verarbeitung findet im __________ statt und die Ausgabe wird auf dem ___________ angezeigt.",
+      "typ": "lückentext",
+      "gewichtung": 3,
+      "antwort": [
+        "EVA",
+        "Arbeitsspeicher",
+        "Monitor / Bildschirm"
+      ],
+      "id": "81b77345-12fd-40bb-99dd-0d74ca953995",
+      "vorschau": "Fülle die Lücken: Eingabe, Verarbeitung, Ausgabe, Speicherung sind die vier Hauptkomponenten des [Lücke][Lücke]__-Prinzips. Die Verarbeitung findet im [Lücke][Lücke][Lücke]_ statt und die Ausgabe wird auf dem [Lücke][Lücke][Lücke]__ angezeigt."
+    },
+    {
+      "frage": "Ordne die Geräte den passenden Kategorien zu: Eingabe, Verarbeitung, Ausgabe, Speicherung.",
+      "typ": "zuordnung",
+      "gewichtung": 3,
+      "antworten": {
+        "Tastatur": "Eingabe",
+        "Prozessor": "Verarbeitung",
+        "Monitor": "Ausgabe",
+        "Festplatte": "Speicherung"
+      },
+      "id": "15135eef-e4f1-4e03-9550-5c80add32973",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Welche Geräte zählen zur Eingabe?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "Mikrofon",
+        "Tastatur",
+        "Bildschirm",
+        "Lautsprecher"
+      ],
+      "antworten": [
+        "Mikrofon",
+        "Tastatur"
+      ],
+      "id": "c98a5cca-9601-413a-8aaa-3e7e266e148d",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Was ist ein typisches Gerät zur Speicherung?",
+      "typ": "single_choice",
+      "gewichtung": 2,
+      "optionen": [
+        "USB-Stick",
+        "Bildschirm",
+        "Tastatur",
+        "Lautsprecher"
+      ],
+      "antwort": "USB-Stick",
+      "id": "9b472579-c45d-4adf-945a-d51fb5cfe971",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Welche Aussage zum Prozessor ist richtig?",
+      "typ": "single_choice",
+      "gewichtung": 2,
+      "optionen": [
+        "Der Prozessor verarbeitet Informationen und Befehle",
+        "Der Prozessor speichert Informationen",
+        "Der Prozessor dient zur Eingabe von Daten",
+        "Der Prozessor gibt Daten aus"
+      ],
+      "antwort": "Der Prozessor verarbeitet Informationen und Befehle",
+      "id": "a64dd579-134b-4045-b902-fa3939207fe4",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Welche Aussagen sind richtig?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "Eingabe erfolgt durch Geräte wie Maus oder Tastatur",
+        "Der Prozessor führt Rechenoperationen durch",
+        "Der Prozessor dient zur Eingabe von Daten",
+        "Der Prozessor gibt Daten aus"
+      ],
+      "antworten": [
+        "Eingabe erfolgt durch Geräte wie Maus oder Tastatur",
+        "Der Prozessor führt Rechenoperationen durch"
+      ],
+      "id": "91bc1a95-9be4-4918-a135-7671e12b03f4",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     }
   ],
   "upload_link": "https://2267.drive.bycs.de/s/uapRhNjYabtbfaI"
