@@ -1,206 +1,113 @@
 {
   "veröffentlicht": true,
-  "titel": "Schulkunde, Schulrecht",
+  "titel": "Wasser ",
   "fragenpool": [
     {
-      "id": "a85be570-6b2e-4a9e-8125-1e5f05bdb44b",
-      "frage": "Wer ist laut BayEUG primär für die Erziehungsarbeit verantwortlich?",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Die Schule",
-        "Die Erziehungsberechtigten",
-        "Die Lehrkraft",
-        "Das Jugendamt"
-      ],
-      "antwort": "Die Erziehungsberechtigten"
-    },
-    {
-      "id": "80aa1658-9c03-4be2-9142-2b16020e2764",
-      "frage": "Erkläre kurz, was mit dem Begriff „Dienstpflicht“ gemeint ist.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Eine Dienstpflicht ist eine rechtliche Verpflichtung aus dem Dienstverhältnis eines Beamten, z. B. die Pflicht zur Verschwiegenheit."
-    },
-    {
-      "id": "ceefb1a3-03b6-4707-8792-e1cd1eb5318f",
-      "frage": "Die Schulpflicht beginnt mit dem ________ Lebensjahr und dauert ________ Jahre.",
-      "typ": "lückentext",
-      "gewichtung": 2.0,
-      "antwort": [
-        "sechsten",
-        "neun"
-      ],
-      "bild_url": "",
-      "bild": null,
-      "antworten": [
-        "sechsten",
-        "neun"
-      ],
-      "vorschau": "Die Schulpflicht beginnt mit dem [Lücke][Lücke]__ Lebensjahr und dauert [Lücke][Lücke]__ Jahre."
-    },
-    {
-      "id": "5f8499b3-eaa0-47ae-91e1-7923b6b759b6",
-      "frage": "Nur umfangreiche Leistungserhebungen müssen mindestens eine Woche vorher angekündigt werden.",
-      "typ": "wahr_falsch",
-      "gewichtung": 1,
-      "antwort": "wahr",
-      "antworten": {}
-    },
-    {
-      "id": "8e3f2cf2-e9bb-49a7-bfb5-f47eb7b88c5a",
-      "frage": "Welche Aufgaben hat der Klassenleiter?",
-      "typ": "multi_select",
-      "gewichtung": 2,
-      "optionen": [
-        "Erziehung",
-        "Beurteilung",
-        "Organisation des Klassenlebens",
-        "Aufsicht über Lehrkräfte"
-      ],
-      "antworten": [
-        "Erziehung",
-        "Beurteilung",
-        "Organisation des Klassenlebens"
-      ]
-    },
-    {
-      "id": "f28e377e-6d7c-4e46-b38e-6cf00b7e2ce2",
-      "frage": "Ordne die Begriffe dem passenden Rechtsdokument zu.",
-      "typ": "zuordnung",
+      "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
+      "typ": "tabelle",
       "gewichtung": 3,
-      "antworten": {
-        "LehrplanPLUS": "Kultusministerium",
-        "BayEUG": "Gesetz",
-        "KMBek": "Verwaltungsvorschrift"
-      }
-    },
-    {
-      "id": "191cc2fc-bf7f-4d36-b7aa-6a31474d520b",
-      "frage": "Beschreibe ein Beispiel, wie du als Lehrkraft Fürsorgepflicht umsetzen würdest.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Indem ich bei Anzeichen von Mobbing eingreife und Unterstützung anbiete."
-    },
-    {
-      "id": "41d7e755-b0d7-4d4d-a6db-84c99eac77a6",
-      "frage": "Welche Maßnahme ist bei einem Schulverweis zwingend erforderlich?",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Anhörung des Schülers",
-        "Eintrag ins Klassenbuch",
-        "Abmeldung bei der Polizei",
-        "Zustimmung des Elternbeirats"
+      "spalten": [
+        "Zustandsform",
+        "Bezeichnung"
       ],
-      "antwort": "Anhörung des Schülers"
+      "zeilen": [
+        [
+          "fest",
+          "Eis"
+        ],
+        [
+          "flüssig",
+          "Wasser"
+        ],
+        [
+          "gasförmig",
+          "Wasserdampf"
+        ]
+      ],
+      "id": "468c6740-b58c-4ac7-9b06-2aaa2e2fc796",
+      "vorschau": "Tabelle mit Eingabefeldern"
     },
     {
-      "id": "871bf69a-135b-4fa5-82d3-7ccdfc243c7c",
-      "frage": "Beurteile die Aussage: „Die Schule darf Kinder jederzeit durchsuchen.“",
+      "frage": "Wähle die richtigen Aussagen aus.",
+      "typ": "multi_select",
+      "gewichtung": 3.5,
+      "optionen": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Das Wasser der Ozeane und Meere ist ungenießbares Süßwasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "antworten": [
+        "Fast die Hälfte der Erdoberfläche besteht aus Wasser.",
+        "Der größte Teil des Salzwassers auf unserer Erde ist in Form von Eis gebunden.",
+        "Jeder Tropfen Wasser auf unserer Erde ist schon zigmal benutzt worden.",
+        "Der Mensch besteht etwa zu ¾ aus Wasser.",
+        "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
+        "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
+      ],
+      "id": "efca37c7-a0a0-46b8-bd89-87b3644d9f95",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Bringe die folgenden Schritte des Wasserkreislaufs in die richtige Reihenfolge.",
+      "typ": "tabelle",
+      "gewichtung": 3.5,
+      "spalten": [
+        "Schritt",
+        "Beschreibung"
+      ],
+      "zeilen": [
+        [
+          "1",
+          "Wenn die Sonne scheint, erwärmt sie die Erdoberfläche."
+        ],
+        [
+          "2",
+          "Durch die Wärme verdunstet Wasser, vor allem über Seen, Flüssen und über dem Meer."
+        ],
+        [
+          "3",
+          "Unsichtbar steigt es als Wasserdampf nach oben."
+        ],
+        [
+          "4",
+          "Beim Aufsteigen kühlt der Wasserdampf ab. Er verwandelt sich in winzige Wassertröpfchen. Man nennt diesen Vorgang auch kondensieren."
+        ],
+        [
+          "5",
+          "Viele von diesen Wassertröpfchen bilden zusammen eine Wolke."
+        ],
+        [
+          "6",
+          "Wenn die Tropfen in der Wolke zu schwer werden, fallen sie als Regen, Schnee oder Hagel auf die Erde. Das nennt man Niederschlag."
+        ],
+        [
+          "7",
+          "Sie versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn."
+        ]
+      ],
+      "id": "e12338b5-837f-41dd-9777-4a8c2d7cedab",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
       "typ": "aufsatz",
-      "gewichtung": 4,
-      "antwort": "Eine Durchsuchung stellt einen erheblichen Eingriff in Grundrechte dar und ist nur unter strengen Voraussetzungen zulässig. Die Maßnahme muss verhältnismäßig und dokumentiert sein."
+      "gewichtung": 2,
+      "antwort": "Das Wasser in den Flaschen hat sich durch die Kälte ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, konnte das Wasser nicht ausweichen und hat die Flaschen gesprengt.",
+      "id": "0e602d92-0fec-49b2-b4a3-df9867f78370",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
     },
     {
-      "id": "afbd58f0-3fc0-4e8e-b519-e4f2c00a7d25",
-      "frage": "Welche Rolle spielt der Elternbeirat an der Mittelschule?",
+      "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
       "typ": "offen",
       "gewichtung": 2,
-      "antwort": "Der Elternbeirat vertritt die Interessen der Erziehungsberechtigten, wirkt beratend mit und kann Vorschläge unterbreiten."
-    },
-    {
-      "id": "f57c64cb-79b0-456f-a3b7-df10a4e8d81b",
-      "frage": "Die ________ ist das oberste Organ der Schulaufsicht in Bayern.",
-      "typ": "lückentext",
-      "gewichtung": 1.0,
-      "antwort": [
-        "Staatsregierung"
-      ],
-      "bild_url": "",
-      "bild": null,
-      "antworten": [
-        "Staatsregierung"
-      ],
-      "vorschau": "Die [Lücke][Lücke]__ ist das oberste Organ der Schulaufsicht in Bayern."
-    },
-    {
-      "id": "c6a7289d-b8f9-4f18-8b18-9ee2fdb23f7f",
-      "frage": "Welche Aussagen zur Schweigepflicht von Lehrkräften sind korrekt?",
-      "typ": "multi_select",
-      "gewichtung": 3,
-      "optionen": [
-        "Gilt auch gegenüber Kollegen",
-        "Verpflichtet zur Verschwiegenheit über Schülerdaten",
-        "Verletzung kann dienstrechtliche Konsequenzen haben",
-        "Gilt nur gegenüber Eltern"
-      ],
-      "antworten": [
-        "Gilt auch gegenüber Kollegen",
-        "Verpflichtet zur Verschwiegenheit über Schülerdaten",
-        "Verletzung kann dienstrechtliche Konsequenzen haben"
-      ]
-    },
-    {
-      "id": "0d1a7c48-d889-4f2e-a9d5-80c5a43a1266",
-      "frage": "Wer trägt die Verantwortung für die Aufsichtspflicht bei Schulveranstaltungen außerhalb des Schulgeländes?",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Die Eltern",
-        "Die Schulleitung",
-        "Die begleitende Lehrkraft",
-        "Die Schüler"
-      ],
-      "antwort": "Die begleitende Lehrkraft"
-    },
-    {
-      "id": "c24894d2-bba6-4a36-bf46-5d7d4532f6a6",
-      "frage": "Beschreibe zwei Maßnahmen, wie du im Schulalltag präventiv gegen Gewalt vorgehen kannst.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Klassenregeln erarbeiten; Sozialtraining durchführen"
-    },
-    {
-      "id": "cb5bb00a-39e4-4891-9640-e8ea6fe82be0",
-      "frage": "Welche Aussagen zur Notengebung sind korrekt?",
-      "typ": "multi_select",
-      "gewichtung": 3,
-      "optionen": [
-        "Noten müssen nachvollziehbar sein",
-        "Eine Schulaufgabe kann durch eine mündliche Leistung ersetzt werden",
-        "Noten sind subjektive Einschätzungen",
-        "Schüler haben ein Recht auf Begründung ihrer Note"
-      ],
-      "antworten": [
-        "Noten müssen nachvollziehbar sein",
-        "Schüler haben ein Recht auf Begründung ihrer Note"
-      ]
-    },
-    {
-      "id": "91422827-e34d-4a62-8d20-83961a7e2322",
-      "frage": "Eine Ordnungsmaßnahme muss immer ________ und ________ sein.",
-      "typ": "lückentext",
-      "gewichtung": 2.0,
-      "antwort": [
-        "verhältnismäßig",
-        "dokumentiert"
-      ],
-      "bild_url": "",
-      "bild": null,
-      "antworten": [
-        "verhältnismäßig",
-        "dokumentiert"
-      ],
-      "vorschau": "Eine Ordnungsmaßnahme muss immer [Lücke][Lücke]__ und [Lücke][Lücke]__ sein."
-    },
-    {
-      "id": "1bc37db9-dbc6-45e3-b8f1-6e8b3b44ab40",
-      "frage": "Erläutere, warum Transparenz im Umgang mit Leistungsbewertungen wichtig ist.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Damit Schüler und Eltern nachvollziehen können, wie Leistungen zustande kommen und um Vertrauen in die Bewertung zu stärken."
+      "antwort": "Das Beschlagen der Brille ist auf Kondensation zurückzuführen. Wenn Susi von der kalten Außentemperatur in das warme Schulhaus kommt, steigt die Temperatur der Brillengläser. Die warme Luft kann mehr Feuchtigkeit aufnehmen als kalte Luft. Daher kondensiert die Feuchtigkeit auf den kälteren Brillengläsern und lässt sie beschlagen.",
+      "id": "3a6f3b2c-4f62-4671-97c4-a9366f06ee5f",
+      "vorschau": "(Freitextantwort)"
     }
   ],
-  "upload_link": "https://2205.drive.bycs.de/s/qUTsqGEgZyCPqLw"
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
 }
