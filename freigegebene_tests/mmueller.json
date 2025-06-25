@@ -1,31 +1,39 @@
 {
   "veröffentlicht": true,
-  "titel": "Wasser ",
+  "titel": "Wasser3",
   "fragenpool": [
     {
       "frage": "Wasser gibt es in drei Zustandsformen. In jeder Zustandsform heißt es anders. Nenne die Zustandsform und den passenden Namen.",
       "typ": "tabelle",
-      "gewichtung": 3,
+      "gewichtung": 3.0,
       "spalten": [
         "Zustandsform",
         "Bezeichnung"
       ],
-      "zeilen": [
-        [
-          "fest",
-          "Eis"
-        ],
-        [
-          "flüssig",
-          "Wasser"
-        ],
-        [
-          "gasförmig",
-          "Wasserdampf"
-        ]
+      "zeilen": 3,
+      "id": "0027a78e-a82a-4283-9c0e-0fdef8bc52d1",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "bild_url": "",
+      "bild": null,
+      "rand": [
+        "Zeile 1",
+        "Zeile 2",
+        "Zeile 3"
       ],
-      "id": "468c6740-b58c-4ac7-9b06-2aaa2e2fc796",
-      "vorschau": "Tabelle mit Eingabefeldern"
+      "zellen": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ]
     },
     {
       "frage": "Wähle die richtigen Aussagen aus.",
@@ -48,7 +56,7 @@
         "Dieses Wasser befindet sich vor allem in den Wasserzellen des Körpers.",
         "Am Tag sollten wir ungefähr 1,5 – 3 Liter Flüssigkeit zu uns nehmen."
       ],
-      "id": "efca37c7-a0a0-46b8-bd89-87b3644d9f95",
+      "id": "4eee0ea6-e5ae-4e58-ad20-dddcb0a0f07a",
       "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
@@ -89,23 +97,25 @@
           "Sie versickern im Boden oder fließen mit Bächen und Flüssen ins Meer zurück. Dann beginnt der Wasserkreislauf von vorn."
         ]
       ],
-      "id": "e12338b5-837f-41dd-9777-4a8c2d7cedab",
+      "id": "d9d160c3-5995-483b-9772-4340af3fd6c3",
       "vorschau": "Tabelle mit Eingabefeldern"
     },
     {
       "frage": "Deine Mutter hat gestern Abend den Wasserkasten zum Kühlen auf den Balkon gestellt. Heute Morgen entdeckt sie, dass vier Flaschen gesprungen sind. Als Wasserexperte kannst du ihr genau erklären, wie das passiert ist:",
-      "typ": "aufsatz",
-      "gewichtung": 2,
-      "antwort": "Das Wasser in den Flaschen hat sich durch die Kälte ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, konnte das Wasser nicht ausweichen und hat die Flaschen gesprengt.",
-      "id": "0e602d92-0fec-49b2-b4a3-df9867f78370",
-      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+      "typ": "offen",
+      "gewichtung": 2.0,
+      "antwort": "Das Wasser in den Flaschen hat sich durch die Kälte ausgedehnt. Da Wasser beim Gefrieren sein Volumen vergrößert und die Flaschen geschlossen waren, konnte das Wasser nicht ausweichen und hat die Flaschen zum Platzen gebracht.",
+      "id": "6c3bfe6b-a6fb-414b-a410-b4d126118f92",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
     },
     {
       "frage": "Susi ärgert sich. Jedes Mal, wenn sie im Winter vom Pausenhof ins Schulhaus kommt, beschlägt ihre Brille und sie sieht nichts. Erkläre Susi den Grund dafür genau. Verwende den richtigen Fachbegriff!",
       "typ": "offen",
       "gewichtung": 2,
-      "antwort": "Das Beschlagen der Brille ist auf Kondensation zurückzuführen. Wenn Susi von der kalten Außentemperatur in das warme Schulhaus kommt, steigt die Temperatur der Brillengläser. Die warme Luft kann mehr Feuchtigkeit aufnehmen als kalte Luft. Daher kondensiert die Feuchtigkeit auf den kälteren Brillengläsern und lässt sie beschlagen.",
-      "id": "3a6f3b2c-4f62-4671-97c4-a9366f06ee5f",
+      "antwort": "Wenn Susi vom kalten Pausenhof ins warme Schulhaus kommt, erwärmt sich die Luft in der Brille schnell. Die warme Luft kann mehr Feuchtigkeit aufnehmen als kalte. Wenn die warme, feuchte Luft auf die kalten Brillengläser trifft, kühlt sie ab und kann die Feuchtigkeit nicht mehr halten. Sie kondensiert auf den Brillengläsern und diese beschlagen. Der Fachbegriff dafür ist Kondensation.",
+      "id": "ec99fa74-8b8e-4203-9edf-b28ae387f01f",
       "vorschau": "(Freitextantwort)"
     }
   ],
