@@ -1,295 +1,103 @@
 {
   "veröffentlicht": true,
-  "titel": "Eine Welt",
+  "titel": "Luft",
   "fragenpool": [
     {
-      "frage": "Auf welchem Kontinent befinden sich die meisten Dritte-Welt-Länder?",
+      "frage": "Beschreibe, was du auf dem Bild siehst. Was hat dies mit dem Thema Luft zu tun?",
+      "typ": "aufsatz",
+      "gewichtung": 3,
+      "antwort": "Auf dem Bild sieht man einen blauen Himmel mit Wolken. Dies hat mit dem Thema Luft zu tun, da Wolken aus Wasserdampf bestehen, der in der Luft schwebt. Außerdem ist die Farbe des Himmels auf die Streuung des Lichts in der Atmosphäre zurückzuführen.",
+      "id": "7cfd1b2c-fa47-4c05-a46c-a8a7079dcf0f",
+      "vorschau": "(digitaler Aufsatz – längere Eingabe)"
+    },
+    {
+      "frage": "Luft ist ein Gasgemisch. Nenne zwei weitere Eigenschaften der Luft.",
       "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Die meisten Dritte-Welt-Länder befinden sich in Afrika.",
-      "id": "2f1baa92-a5d4-4df5-85f0-63b8a282293c",
+      "gewichtung": 2,
+      "antwort": "Luft ist unsichtbar und hat ein Gewicht.",
+      "id": "910eabac-7867-4a7b-9d73-872a72ce4271",
       "vorschau": "(Freitextantwort)"
     },
     {
-      "frage": "Nach welchen Kriterien wird die wirtschaftliche Leistungsfähigkeit der Länder dieser Erde eingeteilt? Wähle die richtigen Abkürzungen.",
+      "frage": "Wie nennt man die Lufthülle der Erde?",
+      "typ": "offen",
+      "gewichtung": 1,
+      "antwort": "Die Lufthülle der Erde wird Atmosphäre genannt.",
+      "id": "f8bb8ade-5040-4765-a364-3abf75df74c8",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welche der folgenden Aussagen sind richtig?",
       "typ": "multi_select",
-      "gewichtung": 2,
+      "gewichtung": 4,
       "optionen": [
-        "BIP",
-        "GOA",
-        "OECD",
-        "HDI",
-        "ADAC"
+        "Stickstoff und Kohlenstoffdioxid sind die Hauptbestandteile der Luft.",
+        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
+        "Luft ist ein Gemisch aus verschiedenen Gasen.",
+        "Im Luftgemisch sind auch Edelgase enthalten."
       ],
       "antworten": [
-        "BIP",
-        "HDI"
+        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
+        "Luft ist ein Gemisch aus verschiedenen Gasen.",
+        "Im Luftgemisch sind auch Edelgase enthalten."
       ],
-      "id": "be35b56a-c785-42c1-9392-b1f27e1e0950",
+      "id": "e8a0d8a8-dcdb-4e19-8d10-8c40210ed189",
       "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
     },
     {
-      "frage": "Die Länder dieser Erde werden je nach wirtschaftlicher Leistungsfähigkeit als Dritte-Welt-Länder, Schwellenländer, Entwicklungsländer bezeichnet. Ordne diese Begriffe nach ihrer wirtschaftlichen Leistungsfähigkeit. Beginne mit der geringsten Leistungsfähigkeit.",
+      "frage": "Ordne die Elementsymbole den richtigen Elementen zu.",
       "typ": "zuordnung",
-      "gewichtung": 3.0,
+      "gewichtung": 5,
       "antworten": {
-        "1": "Dritte-Welt-Länder",
-        "2": "Entwicklungsländer",
-        "3": "Schwellenländer"
+        "Kohlenstoffdioxid": "CO₂",
+        "Wasser": "H2O",
+        "Kohlenstoff": "C",
+        "Stickstoff": "N",
+        "Sauerstoff": "O"
       },
-      "id": "681d5750-5272-42d3-9b8e-320d13722417",
-      "vorschau": "Begriffe zu Kategorien zuordnen",
-      "bild_url": "",
-      "bild": null
+      "id": "b10b1310-fbf7-43a8-b516-fdc757f1820e",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
     },
     {
-      "frage": "Bezeichne jedes der folgenden Länder mit dem passenden Begriff aus Frage 3: Rumänien, Togo (Schwarzafrika), Indien, Irak.",
+      "frage": "Beschrifte die Tabelle hinsichtlich der Merkmale von Hoch- und Tiefdruckgebieten.",
       "typ": "tabelle",
-      "gewichtung": 4.0,
-      "spalten": [
-        "Land",
-        "Begriff"
-      ],
-      "zeilen": 4,
-      "id": "5cd9ccd5-604b-4068-a821-b2f613d24ad0",
-      "vorschau": "Tabelle mit Eingabefeldern",
-      "bild_url": "",
-      "bild": null,
-      "rand": [
-        "Zeile 1",
-        "Zeile 2",
-        "Zeile 3",
-        "Zeile 4"
-      ],
-      "zellen": [
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ],
-        [
-          "",
-          ""
-        ]
-      ]
-    },
-    {
-      "frage": "Welches Hauptziel hat die Entwicklungspolitik in Mali?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Das Hauptziel der Entwicklungspolitik in Mali ist die Verbesserung der Lebensbedingungen der Bevölkerung durch nachhaltige Entwicklung und Armutsbekämpfung.",
-      "id": "2779c84b-59b5-4c74-849f-a70b5926a85f",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Nenne 4 Gründe warum Deutschland eines der reichsten Länder der Welt ist?",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "1. Starke Industrie und hohe Exporte. 2. Gut ausgebildete Arbeitskräfte. 3. Stabile politische und wirtschaftliche Bedingungen. 4. Hohe Innovationskraft.",
-      "id": "f3ca4772-40dc-49df-a4c9-51d17ee5cc9a",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Mit welchen zwei windigen Erscheinungen haben die Nordamerikaner zu kämpfen?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Die Nordamerikaner haben oft mit Tornados und Hurrikans zu kämpfen.",
-      "id": "cbcff078-4950-40da-9307-1080e052eda3",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Welcher der folgenden Begriffe ist keine Großlandschaft der USA? Wähle die richtige Antwort.",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Sierra Nevada",
-        "Appalachen",
-        "Großes Becken",
-        "Große Victoriawüste"
-      ],
-      "antwort": "Große Victoriawüste",
-      "id": "8d2994c0-f956-4149-a65f-8d4ddc204e84",
-      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
-    },
-    {
-      "frage": "Für die extremen Wetterstürze in den USA ist welches Gebirge verantwortlich? Wähle die richtige Antwort.",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Appalachen",
-        "Rocky Mountains",
-        "Kordilleren"
-      ],
-      "antwort": "Rocky Mountains",
-      "id": "deea775f-bfc9-48e5-a94b-9f6b2235fc42",
-      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
-    },
-    {
-      "frage": "Die Vorfahren der Indianer kamen aus:",
-      "typ": "offen",
-      "gewichtung": 1.0,
-      "antwort": "Die Vorfahren der Indianer kamen aus Asien.",
-      "id": "a5b4bbb9-e9c9-4683-89aa-e172cb3725a3",
-      "vorschau": "(Freitextantwort)",
-      "bild_url": "",
-      "bild": null
-    },
-    {
-      "frage": "Die Bevölkerung der frühen USA mischte sich aus drei Bevölkerungsgruppen. Welchen?",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Die Bevölkerung der frühen USA mischte sich aus den Indianern, den europäischen Siedlern und den afrikanischen Sklaven.",
-      "id": "00715593-45ed-4a3f-92a7-817555a8da08",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Ein kleines Grüppchen von Einwanderern hatte auf die Entwicklung der Demokratie in den USA großen Einfluss. Sie hießen wie? Wähle die richtige Antwort.",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Gründerväter",
-        "Pilgerväter",
-        "Kirchenväter",
-        "Urdemokraten"
-      ],
-      "antwort": "Pilgerväter",
-      "id": "a5df61bc-d7fc-49f1-a84b-9a980139220d",
-      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
-    },
-    {
-      "frage": "Welches Ereignis wurde durch die sogenannte „Boston-Tea-Party“ ausgelöst?",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Die Boston-Tea-Party löste den Amerikanischen Unabhängigkeitskrieg aus.",
-      "id": "a783e707-7775-41a2-92ff-3e63de883762",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Warum bezeichnet man die USA als auch „Melting Pot“?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Die USA werden als 'Melting Pot' bezeichnet, weil sie eine Mischung aus vielen verschiedenen Kulturen und Ethnien sind.",
-      "id": "4a2ca80a-30ff-4277-a988-0eed0be3dcbe",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Was lässt sich über den Zusammenhang der Zahl der Traktoren, der Erwerbstätigen und der Farmen in der Landwirtschaft der USA in den letzten 50 Jahren sagen. Argumentiere mit drei Halbsätzen.",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Die Zahl der Traktoren ist gestiegen, was auf eine Mechanisierung der Landwirtschaft hinweist. Die Zahl der Erwerbstätigen in der Landwirtschaft ist gesunken, was auf eine Abnahme der Arbeitsintensität hinweist. Die Zahl der Farmen ist ebenfalls gesunken, was auf eine Konzentration der Landwirtschaft auf weniger, aber größere Betriebe hinweist.",
-      "id": "79968a38-36bb-4997-b715-773a14a43998",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Nenne vier Gründe warum die amerikanische Landwirtschaft so überaus produktiv ist:",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "1. Hohe Mechanisierung und Technisierung. 2. Große landwirtschaftliche Flächen. 3. Einsatz von modernen Anbaumethoden und Technologien. 4. Günstige klimatische Bedingungen.",
-      "id": "4cded7f4-6762-44a1-813d-82505a659da0",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Wie werden die beiden Industriegebiete, die auf der Karte mit einem Pfeil gekennzeichnet sind innerhalb der USA genannt?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Die beiden Industriegebiete werden als 'Rust Belt' und 'Sun Belt' bezeichnet.",
-      "id": "94fe59e7-b30a-44b6-a6b9-d16345fde638",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Welche drei Gründe sorgen dafür, dass die USA über Jahre hinweg an der Spitze der Industrienationen steht:",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "1. Starke Wirtschaft und hohe Produktivität. 2. Großer Binnenmarkt und hoher Konsum. 3. Hohe Innovationskraft und technologischer Fortschritt.",
-      "id": "6430dc98-8a83-4c8b-823f-fc2627c8dc94",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Was versteht man unter einem Nord-Süd-Gefälle. Wähle die richtige Antwort.",
-      "typ": "single_choice",
-      "gewichtung": 1,
-      "optionen": [
-        "Unterschied zwischen Islamistischen und nicht islamistischen Staaten",
-        "Gefälle zwischen Industrie- und Entwicklungsländern",
-        "Temperaturunterschiede zwischen warmen und kalten Ländern"
-      ],
-      "antwort": "Gefälle zwischen Industrie- und Entwicklungsländern",
-      "id": "9f00b4fa-6689-4ca6-8c4f-0daa4203e304",
-      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
-    },
-    {
-      "frage": "Was verbergen sich hinter den Namen GATT und WTO?",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "GATT steht für 'General Agreement on Tariffs and Trade', eine internationale Vereinbarung zur Förderung des Welthandels. WTO steht für 'World Trade Organization', die Welthandelsorganisation, die für die Regelung von Handels- und Wirtschaftsbeziehungen zuständig ist.",
-      "id": "e617dc69-78d5-4079-bf29-b68f7decb2e3",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Worin liegt das Hauptproblem des internationalen Welthandels. Ergänze den Satz: Hauptproblem des Welthandels ist, dass alle Länder ___________ wollen -- aber auch alle Länder verhindern wollen, dass ____________ die eigenen Produkte verdrängen.",
-      "typ": "lückentext",
-      "gewichtung": 2,
-      "lücken": [
-        {
-          "position": 1,
-          "antwort": "exportieren"
-        },
-        {
-          "position": 2,
-          "antwort": "Importe"
-        }
-      ],
-      "id": "75f2655b-257b-4ead-84df-d38e16a02f76",
-      "vorschau": "Worin liegt das Hauptproblem des internationalen Welthandels. Ergänze den Satz: Hauptproblem des Welthandels ist, dass alle Länder [Lücke][Lücke][Lücke]__ wollen -- aber auch alle Länder verhindern wollen, dass [Lücke][Lücke][Lücke][Lücke] die eigenen Produkte verdrängen."
-    },
-    {
-      "frage": "Die Haupthandelsströme führen in welcher Richtung um den Globus? Von ___________ nach ____________.",
-      "typ": "lückentext",
-      "gewichtung": 2,
-      "lücken": [
-        {
-          "position": 1,
-          "antwort": "Ost"
-        },
-        {
-          "position": 2,
-          "antwort": "West"
-        }
-      ],
-      "id": "1d3d82a4-187d-45c1-85ff-7c3a346663da",
-      "vorschau": "Die Haupthandelsströme führen in welcher Richtung um den Globus? Von [Lücke][Lücke][Lücke]__ nach [Lücke][Lücke][Lücke][Lücke]."
-    },
-    {
-      "frage": "Welche Rolle spielt Kaffee im internationalen Welthandel?",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Kaffee ist eines der wichtigsten Exportgüter vieler Entwicklungsländer und spielt daher eine wichtige Rolle im internationalen Welthandel.",
-      "id": "0656ca2c-caf6-4136-803a-8a25944f8efe",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Warum bringt die Erhöhung der Kaffeeproduktion für den Kaffeebauern in den Erzeugerländern keine Vorteile?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Eine Erhöhung der Kaffeeproduktion kann zu einem Überangebot auf dem Weltmarkt führen, was die Preise sinken lässt. Dadurch verdienen die Kaffeebauern trotz höherer Produktion nicht mehr Geld.",
-      "id": "a920d33a-dbef-4fd5-8004-e0103cf8bf08",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Nenne vier Punkte, die den „fairen“ Kaffeehandel zu einem wirklichen Gewinn für den einfachen Kaffeebauern machen?",
-      "typ": "offen",
       "gewichtung": 4,
-      "antwort": "1. Faire Preise, die den Bauern ein ausreichendes Einkommen ermöglichen. 2. Langfristige Handelsbeziehungen, die den Bauern Planungssicherheit geben. 3. Förderung nachhaltiger Anbaumethoden, die die Umwelt schützen. 4. Investitionen in soziale Projekte, die die Lebensbedingungen der Bauern verbessern.",
-      "id": "b6163475-e04e-4e93-b952-c340a20a7527",
-      "vorschau": "(Freitextantwort)"
+      "spalten": [
+        "Merkmal",
+        "Hochdruckgebiet",
+        "Tiefdruckgebiet"
+      ],
+      "zeilen": [
+        [
+          "Luftdruck",
+          "hoch",
+          "niedrig"
+        ],
+        [
+          "Raum der durch die Luftmenge eingenommen wird",
+          "klein",
+          "groß"
+        ]
+      ],
+      "id": "25f55fdd-7910-46f7-9c20-032720326d8e",
+      "vorschau": "Tabelle mit Eingabefeldern"
+    },
+    {
+      "frage": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die ________________________________ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft ____________________. Warme Luft ________________ sich aus, kalte Luft hingegen zieht sich ______________________. Hochs und Tiefs wollen sich _____________________________. Dadurch zieht die Luft immer vom _________________________________ zum _____________________________________. Durch diesen Austausch entsteht ______________________.",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antwort": "Dadurch, dass die [Temperatur] an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft [stark]. Warme Luft [dehnt] sich aus, kalte Luft hingegen zieht sich [zusammen]. Hochs und Tiefs wollen sich [ausgleichen]. Dadurch zieht die Luft immer vom [Hochdruckgebiet] zum [Tiefdruckgebiet]. Durch diesen Austausch entsteht [Wind].",
+      "id": "f4a156ba-f24b-42f5-bc11-41cf978d56cf",
+      "vorschau": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Warme Luft [Lücke][Lücke][Lücke][Lücke][Lücke]_ sich aus, kalte Luft hingegen zieht sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Hochs und Tiefs wollen sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Dadurch zieht die Luft immer vom [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] zum [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Durch diesen Austausch entsteht [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_."
+    },
+    {
+      "frage": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst.",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antwort": "[1. Durch die Sonneneinstrahlung erwärmt sich die bodennahe Luft. 2. Warme Luft dehnt sich aus und steigt auf. 3. An der Stelle der aufgestiegenen warmen Luft entsteht ein Tiefdruckgebiet. 4. Die Luft aus dem umliegenden Hochdruckgebiet strömt in das Tiefdruckgebiet. Dieser Luftstrom wird als Wind bezeichnet.]",
+      "id": "b946ba56-7ff0-4ffa-b348-28f38de645e4",
+      "vorschau": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst."
     }
   ],
-  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+  "upload_link": "www.marcusmueller73.de"
 }
