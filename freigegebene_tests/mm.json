@@ -1,0 +1,126 @@
+{
+  "veröffentlicht": true,
+  "titel": "Steinzeit 5A",
+  "fragenpool": [
+    {
+      "frage": "Die Menschen lebten in welchen Arten von Behausungen während der Altsteinzeit?",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Die Menschen lebten in Höhlen oder Zelten.",
+      "id": "6034d597-653b-4f75-a295-725d425abb46",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Die Menschen der Altsteinzeit wanderten von Ort zu Ort, sie waren sogenannte was?",
+      "typ": "offen",
+      "gewichtung": 1.0,
+      "antwort": "Sie waren sogenannte Nomaden.",
+      "id": "94e77870-7227-4e49-b580-fd4be67031e2",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
+    },
+    {
+      "frage": "Nenne drei Arbeiten, die die Menschen an dem Ort, an dem sie lebten, erledigen mussten.",
+      "typ": "offen",
+      "gewichtung": 1.5,
+      "antwort": "Jagen, Sammeln und Feuer machen.",
+      "id": "e417f04d-fc20-4fe2-9861-c822bb756668",
+      "vorschau": "(Freitextantwort)",
+      "bild_url": "",
+      "bild": null
+    },
+    {
+      "frage": "Die Arbeit der Männer und Frauen unterschied sich. Nenne je eine Arbeit, der Männer und Frauen nachgingen.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Männer: Jagen. Frauen: Sammeln.",
+      "id": "7c750168-a08c-4d08-a8fa-09862ec27631",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Erkläre, warum das Feuer für die Menschen in der Steinzeit so wichtig war.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Das Feuer war wichtig für Wärme, Licht, zum Kochen von Nahrung und als Schutz vor Raubtieren.",
+      "id": "6a5f2940-7652-4053-89ab-b961ca4a3f53",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Vervollständige den Steckbrief von Ötzi.",
+      "typ": "tabelle",
+      "gewichtung": 4.0,
+      "spalten": [
+        "Aussehen",
+        "Lebensweise"
+      ],
+      "zeilen": 2,
+      "id": "bc74fd9a-d556-43f8-a3e9-2f387c503b57",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "bild_url": "",
+      "bild": null,
+      "rand": [
+        "Zeile 1",
+        "Zeile 2"
+      ],
+      "zellen": []
+    },
+    {
+      "frage": "Erkläre, wie Ötzis Leiche nach so langer Zeit noch erhalten bleiben konnte.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Ötzis Leiche konnte durch die natürliche Mumifizierung in dem Gletschereis erhalten bleiben.",
+      "id": "a92004c9-4e03-4aff-8d6d-14baefb7b43c",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Nenne die zwei Arten der Mammutjagd, die du kennengelernt hast.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "Einzelfang und Treibjagd.",
+      "id": "de1a5c4f-e337-441f-be1c-cd16ec93226e",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Beschreibe eine Art der Mammutjagd. Nenne den Fachbegriff.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Einzelfang: Ein einzelner Jäger nähert sich dem Mammut leise und tötet es mit einem gezielten Speerwurf.",
+      "id": "ad1cfac5-4b7f-4b36-8e04-02d99137f6b5",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Beschreibe drei Dinge, die die Forscher durch den Fund von Ötzi über die Menschen in der Steinzeit herausgefunden haben.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "1. Sie konnten Werkzeuge und Waffen aus Kupfer herstellen. 2. Sie trugen Kleidung aus Tierhäuten. 3. Sie hatten Kenntnisse von Heilpflanzen.",
+      "id": "aedb8926-562e-4b74-ba9d-0f97bf86fea7",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Ordne die Begriffe den passenden Zeitaltern zu: Höhlenmalerei, Wandervolk, Jäger, Dorf, Sammler, Nutztiere, Ackerbau.",
+      "typ": "zuordnung",
+      "gewichtung": 3,
+      "antworten": {
+        "Höhlenmalerei": "Altsteinzeit",
+        "Wandervolk": "Altsteinzeit",
+        "Jäger": "Altsteinzeit",
+        "Dorf": "Jungsteinzeit",
+        "Sammler": "Altsteinzeit",
+        "Nutztiere": "Jungsteinzeit",
+        "Ackerbau": "Jungsteinzeit"
+      },
+      "id": "51f4be25-aba0-47d1-bf80-5645c7c03e14",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Erkläre den Unterschied zwischen der Lebensweise der Menschen in der Altsteinzeit und der Jungsteinzeit.",
+      "typ": "offen",
+      "gewichtung": 2,
+      "antwort": "In der Altsteinzeit waren die Menschen Nomaden und lebten vom Jagen und Sammeln. In der Jungsteinzeit ließen sie sich in Dörfern nieder und lebten vom Ackerbau und der Haltung von Nutztieren.",
+      "id": "bec1cfb8-c7f3-4684-bdce-5d903e08a482",
+      "vorschau": "(Freitextantwort)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
