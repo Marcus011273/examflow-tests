@@ -1,6 +1,175 @@
 {
-  "veröffentlicht": false,
-  "titel": "",
-  "fragenpool": [],
-  "upload_link": ""
+  "veröffentlicht": true,
+  "titel": "Demokratie 15 Fragen",
+  "fragenpool": [
+    {
+      "frage": "Nenne ein Kennzeichen der Demokratie.",
+      "typ": "offen",
+      "gewichtung": 1,
+      "antwort": "Ein Kennzeichen der Demokratie ist die Volkssouveränität, das bedeutet, dass das Volk die höchste Gewalt im Staat besitzt.",
+      "id": "559458bc-05e0-4c53-ab29-8e8b0c49acf9",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Wer darf in Deutschland wählen?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Alle Personen ab 16 Jahren",
+        "Nur Beamte",
+        "Alle deutschen Staatsbürger ab 18 Jahren",
+        "Nur Männer"
+      ],
+      "antwort": "Alle deutschen Staatsbürger ab 18 Jahren",
+      "id": "e9704582-8801-4f76-8b19-9517bd248b54",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "In einer Demokratie gilt das Mehrheitsprinzip. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "826f1a29-1144-44bd-b7b3-62f9281e5ac0",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "In Deutschland herrscht eine Diktatur. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "143ccdd9-ba02-496e-9300-e41a5dd74791",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Das Grundgesetz ist die Verfassung Deutschlands. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "id": "2e45aece-fe43-4dfa-b24c-6286f88602bb",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ergänze den Text: Die Würde des Menschen ist ____________________________. Alle Menschen sind vor dem Gesetz ____________________________. Jeder hat das Recht auf ____________________________.",
+      "typ": "lückentext",
+      "gewichtung": 2,
+      "antwort": [
+        "unantastbar",
+        "gleich",
+        "freie Entfaltung seiner Persönlichkeit"
+      ],
+      "id": "6a842604-54a3-4338-9070-f5fcd587a658",
+      "vorschau": "Ergänze den Text: Die Würde des Menschen ist [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Alle Menschen sind vor dem Gesetz [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Jeder hat das Recht auf [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_."
+    },
+    {
+      "frage": "Welche Merkmale treffen auf eine Demokratie zu?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "Pressefreiheit",
+        "Zensur",
+        "freie Wahlen",
+        "Alleinherrschaft"
+      ],
+      "antworten": [
+        "Pressefreiheit",
+        "freie Wahlen"
+      ],
+      "id": "23893669-a84f-4d7f-a735-58b6405afdc1",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Erkläre den Unterschied zwischen Demokratie und Diktatur.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "In einer Demokratie haben die Bürger das Recht, ihre Regierung zu wählen und politische Entscheidungen mitzubestimmen. In einer Diktatur hingegen hat eine Person oder eine Gruppe die absolute Macht und die Bürger haben keine Möglichkeit, politisch mitzuwirken.",
+      "id": "c9dbe270-c576-473c-bfc5-a8d756655d3f",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Warum ist Wählen wichtig?",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Wählen ist wichtig, weil es eine der grundlegenden Möglichkeiten für Bürger ist, politisch mitzuwirken und Einfluss auf die Politik zu nehmen. Durch die Wahl können die Bürger bestimmen, wer sie in der Politik vertritt und welche politischen Ziele verfolgt werden sollen.",
+      "id": "0e8fc5cd-1e29-4e2a-8902-c8153dce67aa",
+      "vorschau": "(Freitextantwort)"
+    },
+    {
+      "frage": "Welche Parteien sind aktuell im Bundestag vertreten?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "SPD",
+        "CDU",
+        "Grüne",
+        "FDP",
+        "AfD",
+        "Linke",
+        "Piratenpartei"
+      ],
+      "antworten": [
+        "SPD",
+        "CDU",
+        "Grüne",
+        "FDP",
+        "AfD",
+        "Linke"
+      ],
+      "id": "b3388272-3b93-44a4-87d2-028f3323de17",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Deutschland ist eine direkte Demokratie. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "id": "434e3b06-d70d-4e7c-bd30-186dd4508902",
+      "vorschau": "☐ wahr   ☐ falsch",
+      "antworten": {}
+    },
+    {
+      "frage": "Ergänze den Text: Deutschland ist ein ____________________________, ein ____________________________ und ein ____________________________ Staat.",
+      "typ": "lückentext",
+      "gewichtung": 2.0,
+      "antwort": [
+        "Bundesstaat",
+        "Rechtsstaat",
+        "Sozialstaat"
+      ],
+      "id": "41ffc624-eb62-4983-966b-4176b91ff472",
+      "vorschau": "Ergänze den Text: Deutschland ist ein [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_, ein [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ und ein [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ Staat.",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "demokratischer",
+        "rechtssicherer",
+        "pluralistischer"
+      ]
+    },
+    {
+      "frage": "Wer wählt den Bundeskanzler?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Die Bürger direkt",
+        "Der Bundespräsident",
+        "Der Bundestag",
+        "Die Landesregierungen"
+      ],
+      "antwort": "Der Bundestag",
+      "id": "305c37ef-08f3-4b7d-ab83-2be1a12edd45",
+      "vorschau": "• Auswahl A\n• Auswahl B\n• Auswahl C"
+    },
+    {
+      "frage": "Vergleiche das aktive und das passive Wahlrecht.",
+      "typ": "offen",
+      "gewichtung": 3,
+      "antwort": "Das aktive Wahlrecht ist das Recht, bei einer Wahl seine Stimme abzugeben. Das passive Wahlrecht hingegen ist das Recht, sich zur Wahl stellen zu lassen und gewählt zu werden.",
+      "id": "c05a029f-13aa-4d69-b72f-8e5d6daa9467",
+      "vorschau": "(Freitextantwort)"
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
 }
