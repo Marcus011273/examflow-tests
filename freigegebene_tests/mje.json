@@ -1,0 +1,20 @@
+{
+  "veröffentlicht": true,
+  "titel": "Test Lücke",
+  "fragenpool": [
+    {
+      "id": "99a7715f-b127-4928-b13f-f76776ed2257",
+      "frage": "Die Hauptstadt von Deutschland ist ___________________.",
+      "typ": "lückentext",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "Die Hauptstadt von Deutschland ist [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_.",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Berlin"
+      ]
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
