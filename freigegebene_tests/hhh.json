@@ -1,0 +1,39 @@
+{
+  "veröffentlicht": true,
+  "titel": "bgb",
+  "fragenpool": [
+    {
+      "id": "f7cdf784-0f89-4719-aef6-f750cd4bb52d",
+      "frage": "Wie heißt die Hauptstadt von DEutschland? __________________",
+      "typ": "lückentext",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "Wie heißt die Hauptstadt von DEutschland? [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Berlin"
+      ]
+    },
+    {
+      "id": "9e1971b7-9cca-4675-94e3-7b817e96be53",
+      "frage": "Welche Aussagen sind richtig?",
+      "typ": "multi_select",
+      "gewichtung": 1.0,
+      "antwort": "",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C",
+      "bild_url": "",
+      "bild": null,
+      "optionen": [
+        "München ist die Landeshauptstadt von Bayern",
+        "Frankfurt ist die Hauptstadt von Hessen",
+        "Wien ist die Hauptstadt von Österreich"
+      ],
+      "antworten": [
+        "München ist die Landeshauptstadt von Bayern",
+        "Wien ist die Hauptstadt von Österreich"
+      ]
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
