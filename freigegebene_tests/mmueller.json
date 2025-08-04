@@ -1,121 +1,123 @@
 {
   "veröffentlicht": true,
-  "titel": "",
+  "titel": "Übung_Steinzeit",
   "fragenpool": [
     {
-      "frage": "Die Menschen lebten in der Altsteinzeit in welchen Arten von Behausungen?",
-      "typ": "offen",
-      "gewichtung": 2,
+      "frage": "Die Menschen lebten in der Altsteinzeit in welchen Arten von Unterkünften? Nenne zwei. ___________________________ und __________________________.",
+      "typ": "lückentext",
+      "gewichtung": 2.0,
       "antwort": "Die Menschen lebten in Höhlen oder Zelten.",
-      "id": "294ca41a-2bec-4c08-8e2c-69cf31575b66",
-      "vorschau": "(Freitextantwort)"
+      "id": "18d6f07c-dc7c-423c-948a-2faf46964e53",
+      "vorschau": "Die Menschen lebten in der Altsteinzeit in welchen Arten von Unterkünften? Nenne zwei. [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] und [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__.",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Höhlen",
+        "Zelte"
+      ]
     },
     {
-      "frage": "Die Menschen der Altsteinzeit wanderten von Ort zu Ort. Wie nennt man diese Art von Lebensweise?",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Sie waren sogenannte Nomaden.",
-      "id": "44bdc8eb-4320-4ba0-913b-1571f8824eca",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Die Menschen der Altsteinzeit wanderten von Ort zu Ort. Wie nennt man diese Lebensweise? ____________________________",
+      "typ": "lückentext",
+      "gewichtung": 1.0,
+      "antwort": "Sie waren Nomaden.",
+      "id": "fd9ce368-584e-4ee2-8785-17f9c14b8a3e",
+      "vorschau": "Die Menschen der Altsteinzeit wanderten von Ort zu Ort. Wie nennt man diese Lebensweise? [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Nomaden"
+      ]
     },
     {
-      "frage": "Nenne drei Arbeiten, die die Menschen an dem Ort, an dem sie lebten, erledigen mussten.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Jagen, Sammeln und Feuer machen.",
-      "id": "26e7812e-b252-46be-9627-488529a4f6a9",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Nenne drei Arbeiten, die die Menschen an dem Ort, an dem sie lebten, erledigen mussten.\nSie mussten ____________________________, ____________________________ und ___________________________________________",
+      "typ": "lückentext",
+      "gewichtung": 3.0,
+      "antwort": "Jagen, Sammeln, Feuer machen.",
+      "id": "e4463952-5203-4baa-8117-dd356dc37b0f",
+      "vorschau": "Nenne drei Arbeiten, die die Menschen an dem Ort, an dem sie lebten, erledigen mussten.\nSie mussten [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_, [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_ und [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "jagen",
+        "sammeln",
+        "Feuer machen"
+      ]
     },
     {
-      "frage": "Die Arbeit der Männer und Frauen unterschied sich in der Altsteinzeit. Nenne eine Arbeit, der Männer nachgingen.",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Die Männer gingen jagen.",
-      "id": "928c443a-8420-47a9-a81a-d7730dbcfe82",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Die Arbeit der Männer und Frauen unterschied sich in der Altsteinzeit. Nenne je eine Arbeit, der Männer und Frauen nachgingen. Männer: ____________________, ______________________. Frauen: _____________________, __________________________.",
+      "typ": "lückentext",
+      "gewichtung": 2.0,
+      "antwort": "Männer: Jagen. Frauen: Sammeln.",
+      "id": "fb250c68-f6b5-4757-b2ae-f51d29036564",
+      "vorschau": "Die Arbeit der Männer und Frauen unterschied sich in der Altsteinzeit. Nenne je eine Arbeit, der Männer und Frauen nachgingen. Männer: [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__, [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Frauen: [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke], [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__.",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "jagen",
+        "bauen",
+        "Kinder erziehen",
+        "kochen"
+      ]
     },
     {
-      "frage": "Die Arbeit der Männer und Frauen unterschied sich in der Altsteinzeit. Nenne eine Arbeit, der Frauen nachgingen.",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Die Frauen sammelten Beeren und andere essbare Pflanzen.",
-      "id": "d3b38065-3a01-4420-90c7-7b039dc6c00b",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Erkläre, warum das Feuer für die Menschen in der Steinzeit so wichtig war. __________________________________, ______________________________",
+      "typ": "lückentext",
+      "gewichtung": 3.0,
+      "antwort": "Das Feuer war wichtig für Wärme, Licht, zum Kochen und als Schutz vor wilden Tieren.",
+      "id": "6de2db8b-0048-4ef4-8ca4-438aabb3cd64",
+      "vorschau": "Erkläre, warum das Feuer für die Menschen in der Steinzeit so wichtig war. [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_, [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "kochen",
+        "Wärme"
+      ]
     },
     {
-      "frage": "Erkläre, warum das Feuer für die Menschen in der Steinzeit so wichtig war.",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Das Feuer war wichtig für die Menschen in der Steinzeit, weil es Wärme spendete, sie damit ihr Essen kochen konnten und es sie vor wilden Tieren schützte.",
-      "id": "6a129776-1acc-4bba-9420-a616eb56885a",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Vervollständige den Steckbrief von Ötzi.",
+      "typ": "tabelle",
+      "gewichtung": 4,
+      "spalten": [
+        "Information",
+        "Antwort"
+      ],
+      "zeilen": [
+        [
+          "Daher kommt Ötzis Name",
+          "Ötzi wurde in den Ötztaler Alpen gefunden."
+        ],
+        [
+          "So alt wurde Ötzi",
+          "Ötzi wurde etwa 45 Jahre alt."
+        ],
+        [
+          "Diese Waffe hatte er dabei",
+          "Ötzi hatte einen Kupferbeil dabei."
+        ],
+        [
+          "Er lebte vor so vielen Jahren",
+          "Ötzi lebte vor etwa 5300 Jahren."
+        ]
+      ],
+      "id": "041e2032-d820-49e0-98ac-d04230ee7ed1",
+      "vorschau": "Tabelle mit Eingabefeldern"
     },
     {
-      "frage": "Vervollständige den Steckbrief von Ötzi. Daher kommt Ötzis Name:",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Ötzis Name kommt von dem Ort, an dem er gefunden wurde, dem Ötztal.",
-      "id": "e05b5fe7-4283-41ed-ab4e-1ce93943b117",
-      "vorschau": "(Freitextantwort)"
+      "frage": "Erkläre, wie Ötzis Leiche nach so langer Zeit noch erhalten bleiben konnte. Durch _____________________________________",
+      "typ": "lückentext",
+      "gewichtung": 2.0,
+      "antwort": "Ötzis Leiche konnte durch die natürliche Mumifizierung im Eis erhalten bleiben.",
+      "id": "c1b25d5b-adc9-4ba5-9b36-afecf55bba5c",
+      "vorschau": "Erkläre, wie Ötzis Leiche nach so langer Zeit noch erhalten bleiben konnte. Durch [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_",
+      "bild_url": "",
+      "bild": null,
+      "antworten": [
+        "Eis"
+      ]
     },
     {
-      "frage": "Vervollständige den Steckbrief von Ötzi. So alt wurde Ötzi:",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Ötzi wurde etwa 45 Jahre alt.",
-      "id": "d7992573-503c-46cd-bb45-1a62da840c7b",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Vervollständige den Steckbrief von Ötzi. Diese Waffe hatte er dabei:",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Ötzi hatte einen Kupferbeil dabei.",
-      "id": "c6b540d6-abef-4a4b-b9bc-398a52db7690",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Vervollständige den Steckbrief von Ötzi. Er lebte vor so vielen Jahren:",
-      "typ": "offen",
-      "gewichtung": 1,
-      "antwort": "Ötzi lebte vor etwa 5300 Jahren.",
-      "id": "df1ce9da-4790-4683-bc0b-3ee84d0de9b4",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Erkläre, wie Ötzis Leiche nach so langer Zeit noch erhalten bleiben konnte.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Ötzis Leiche konnte so lange erhalten bleiben, weil sie im Eis konserviert wurde.",
-      "id": "cd1fec84-bdc0-474f-aa86-bbfcabf7908b",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Nenne die zwei Arten der Mammutjagd, die du kennengelernt hast.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "Die zwei Arten der Mammutjagd sind die Treibjagd und die Einzeljagd.",
-      "id": "74f829f0-be69-4915-913e-635efe0a1dac",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Beschreibe eine Art der Mammutjagd und nenne den Fachbegriff.",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Bei der Treibjagd trieb eine Gruppe von Jägern das Mammut in eine Falle oder einen Abgrund, wo es getötet wurde.",
-      "id": "6463183b-57c0-44b8-b927-06e6ca638dbc",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Beschreibe drei Dinge, die die Forscher durch den Fund von Ötzi über die Menschen in der Steinzeit herausgefunden haben.",
-      "typ": "offen",
-      "gewichtung": 3,
-      "antwort": "Durch den Fund von Ötzi haben die Forscher herausgefunden, dass die Menschen in der Steinzeit schon Kupferwerkzeuge benutzten, dass sie Tattoos hatten und dass sie an Krankheiten wie Arthritis litten.",
-      "id": "9a8d5950-c8fd-4c67-b6b5-eefac9f51ab1",
-      "vorschau": "(Freitextantwort)"
-    },
-    {
-      "frage": "Ordne die Begriffe den passenden Zeitaltern zu: Höhlenmalerei, Wandervolk, Jäger, Dorf, Sammler, Nutztiere, Ackerbau.",
+      "frage": "Ordne die folgenden Begriffe entweder der Altsteinzeit oder der Jungsteinzeit zu.",
       "typ": "zuordnung",
       "gewichtung": 7,
       "antworten": {
@@ -127,17 +129,9 @@
         "Nutztiere": "Jungsteinzeit",
         "Ackerbau": "Jungsteinzeit"
       },
-      "id": "6db56683-42ec-41e9-bb9a-11b5f516982f",
+      "id": "31334f7e-db09-4de6-8acb-a89773b67fb0",
       "vorschau": "Begriffe zu Kategorien zuordnen"
-    },
-    {
-      "frage": "Erkläre den Unterschied zwischen der Lebensweise der Menschen in der Altsteinzeit und der Jungsteinzeit.",
-      "typ": "offen",
-      "gewichtung": 2,
-      "antwort": "In der Altsteinzeit waren die Menschen Nomaden und zogen von Ort zu Ort. Sie lebten vom Jagen und Sammeln. In der Jungsteinzeit hingegen lebten die Menschen sesshaft in Dörfern. Sie betrieben Ackerbau und hielten Nutztiere.",
-      "id": "6f3fa84b-154e-49fa-9524-bea75f63dc0c",
-      "vorschau": "(Freitextantwort)"
     }
   ],
-  "upload_link": "bycs.de"
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
 }
