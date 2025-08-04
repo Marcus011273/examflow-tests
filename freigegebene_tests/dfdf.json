@@ -1,20 +1,6 @@
 {
-  "veröffentlicht": true,
-  "titel": "ase",
-  "fragenpool": [
-    {
-      "id": "627d6004-124b-4352-8272-acf20f53df5a",
-      "frage": "Die Hauptstadt von Deutschland ist:____________________________",
-      "typ": "lückentext",
-      "gewichtung": 1.0,
-      "antwort": "",
-      "vorschau": "Die Hauptstadt von Deutschland ist:[Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_",
-      "bild_url": "",
-      "bild": null,
-      "antworten": [
-        "Berlin"
-      ]
-    }
-  ],
-  "upload_link": "bycs.de"
+  "veröffentlicht": false,
+  "titel": "",
+  "fragenpool": [],
+  "upload_link": ""
 }
