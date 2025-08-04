@@ -1,0 +1,126 @@
+{
+  "veröffentlicht": true,
+  "titel": "TestDEmokratie",
+  "fragenpool": [
+    {
+      "id": "e9704582-8801-4f76-8b19-9517bd248b54",
+      "frage": "Wer darf in Deutschland wählen?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Alle Personen ab 16 Jahren",
+        "Nur Beamte",
+        "Alle deutschen Staatsbürger ab 18 Jahren",
+        "Nur Männer"
+      ],
+      "antwort": "Alle deutschen Staatsbürger ab 18 Jahren"
+    },
+    {
+      "id": "826f1a29-1144-44bd-b7b3-62f9281e5ac0",
+      "frage": "In einer Demokratie gilt das Mehrheitsprinzip. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "antworten": {}
+    },
+    {
+      "id": "143ccdd9-ba02-496e-9300-e41a5dd74791",
+      "frage": "In Deutschland herrscht eine Diktatur. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "antworten": {}
+    },
+    {
+      "id": "2e45aece-fe43-4dfa-b24c-6286f88602bb",
+      "frage": "Das Grundgesetz ist die Verfassung Deutschlands. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "wahr",
+      "antworten": {}
+    },
+    {
+      "id": "6a842604-54a3-4338-9070-f5fcd587a658",
+      "frage": "Ergänze den Text: Die Würde des Menschen ist ____________________________. Alle Menschen sind vor dem Gesetz ____________________________. Jeder hat das Recht auf ____________________________.",
+      "typ": "lückentext",
+      "gewichtung": 2,
+      "antwort": [
+        "unantastbar",
+        "gleich",
+        "freie Entfaltung seiner Persönlichkeit"
+      ]
+    },
+    {
+      "id": "23893669-a84f-4d7f-a735-58b6405afdc1",
+      "frage": "Welche Merkmale treffen auf eine Demokratie zu?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "Pressefreiheit",
+        "Zensur",
+        "freie Wahlen",
+        "Alleinherrschaft"
+      ],
+      "antworten": [
+        "Pressefreiheit",
+        "freie Wahlen"
+      ]
+    },
+    {
+      "id": "b3388272-3b93-44a4-87d2-028f3323de17",
+      "frage": "Welche Parteien sind aktuell im Bundestag vertreten?",
+      "typ": "multi_select",
+      "gewichtung": 2,
+      "optionen": [
+        "SPD",
+        "CDU",
+        "Grüne",
+        "FDP",
+        "AfD",
+        "Linke",
+        "Piratenpartei"
+      ],
+      "antworten": [
+        "SPD",
+        "CDU",
+        "Grüne",
+        "FDP",
+        "AfD",
+        "Linke"
+      ]
+    },
+    {
+      "id": "434e3b06-d70d-4e7c-bd30-186dd4508902",
+      "frage": "Deutschland ist eine direkte Demokratie. Ist diese Aussage wahr oder falsch?",
+      "typ": "wahr_falsch",
+      "gewichtung": 1,
+      "antwort": "falsch",
+      "antworten": {}
+    },
+    {
+      "id": "41ffc624-eb62-4983-966b-4176b91ff472",
+      "frage": "Ergänze den Text: Deutschland ist ein ____________________________, ein ____________________________ und ein ____________________________ Staat.",
+      "typ": "lückentext",
+      "gewichtung": 2,
+      "antwort": [
+        "Bundesstaat",
+        "Rechtsstaat",
+        "Sozialstaat"
+      ]
+    },
+    {
+      "id": "305c37ef-08f3-4b7d-ab83-2be1a12edd45",
+      "frage": "Wer wählt den Bundeskanzler?",
+      "typ": "single_choice",
+      "gewichtung": 1,
+      "optionen": [
+        "Die Bürger direkt",
+        "Der Bundespräsident",
+        "Der Bundestag",
+        "Die Landesregierungen"
+      ],
+      "antwort": "Der Bundestag"
+    }
+  ],
+  "upload_link": "bycs.de"
+}
