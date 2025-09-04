@@ -1,0 +1,80 @@
+{
+  "veröffentlicht": true,
+  "titel": "mmueller",
+  "fragenpool": [
+    {
+      "frage": "Welche der folgenden Aussagen sind richtig?",
+      "typ": "multi_select",
+      "gewichtung": 4,
+      "optionen": [
+        "Stickstoff und Kohlenstoffdioxid sind die Hauptbestandteile der Luft.",
+        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
+        "Luft ist ein Gemisch aus verschiedenen Gasen.",
+        "Im Luftgemisch sind auch Edelgase enthalten."
+      ],
+      "antworten": [
+        "Das Eigengewicht der Luft drückt die darunterliegende Luft zusammen. Das wird als Luftdruck bezeichnet.",
+        "Luft ist ein Gemisch aus verschiedenen Gasen.",
+        "Im Luftgemisch sind auch Edelgase enthalten."
+      ],
+      "id": "e8a0d8a8-dcdb-4e19-8d10-8c40210ed189",
+      "vorschau": "[ ] Auswahl A\n[ ] Auswahl B\n[ ] Auswahl C"
+    },
+    {
+      "frage": "Ordne die Elementsymbole den richtigen Elementen zu.",
+      "typ": "zuordnung",
+      "gewichtung": 5,
+      "antworten": {
+        "Kohlenstoffdioxid": "CO₂",
+        "Wasser": "H2O",
+        "Kohlenstoff": "C",
+        "Stickstoff": "N",
+        "Sauerstoff": "O"
+      },
+      "id": "b10b1310-fbf7-43a8-b516-fdc757f1820e",
+      "vorschau": "Begriffe zu Kategorien zuordnen"
+    },
+    {
+      "frage": "Beschrifte die Tabelle hinsichtlich der Merkmale von Hoch- und Tiefdruckgebieten.",
+      "typ": "tabelle",
+      "gewichtung": 4,
+      "spalten": [
+        "Merkmal",
+        "Hochdruckgebiet",
+        "Tiefdruckgebiet"
+      ],
+      "zeilen": [
+        [
+          "Luftdruck",
+          "hoch",
+          "niedrig"
+        ],
+        [
+          "Raum der durch die Luftmenge eingenommen wird",
+          "klein",
+          "groß"
+        ]
+      ],
+      "id": "25f55fdd-7910-46f7-9c20-032720326d8e",
+      "vorschau": "Tabelle mit Eingabefeldern",
+      "zellen": []
+    },
+    {
+      "frage": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die ________________________________ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft ____________________. Warme Luft ________________ sich aus, kalte Luft hingegen zieht sich ______________________. Hochs und Tiefs wollen sich _____________________________. Dadurch zieht die Luft immer vom _________________________________ zum _____________________________________. Durch diesen Austausch entsteht ______________________.",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antwort": "Dadurch, dass die [Temperatur] an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft [stark]. Warme Luft [dehnt] sich aus, kalte Luft hingegen zieht sich [zusammen]. Hochs und Tiefs wollen sich [ausgleichen]. Dadurch zieht die Luft immer vom [Hochdruckgebiet] zum [Tiefdruckgebiet]. Durch diesen Austausch entsteht [Wind].",
+      "id": "f4a156ba-f24b-42f5-bc11-41cf978d56cf",
+      "vorschau": "Fülle die Lücken mit passenden Begriffen. Dadurch, dass die [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__ an verschiedenen Orten der Erde unterschiedlich ist, entstehen Tiefdruck- und Hochdruckgebiete. An Orten mit starker Sonneneinstrahlung erwärmt sich die bodennahe Luft [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Warme Luft [Lücke][Lücke][Lücke][Lücke][Lücke]_ sich aus, kalte Luft hingegen zieht sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Hochs und Tiefs wollen sich [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]__. Dadurch zieht die Luft immer vom [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke] zum [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_. Durch diesen Austausch entsteht [Lücke][Lücke][Lücke][Lücke][Lücke][Lücke][Lücke]_."
+    },
+    {
+      "frage": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst.",
+      "typ": "lückentext",
+      "gewichtung": 4,
+      "antwort": "[1. Durch die Sonneneinstrahlung erwärmt sich die bodennahe Luft. 2. Warme Luft dehnt sich aus und steigt auf. 3. An der Stelle der aufgestiegenen warmen Luft entsteht ein Tiefdruckgebiet. 4. Die Luft aus dem umliegenden Hochdruckgebiet strömt in das Tiefdruckgebiet. Dieser Luftstrom wird als Wind bezeichnet.]",
+      "id": "b946ba56-7ff0-4ffa-b348-28f38de645e4",
+      "vorschau": "Erkläre, wie Wind entsteht, indem du die Lücken mit einer passenden Beschreibung füllst."
+    }
+  ],
+  "upload_link": "https://2205.drive.bycs.de/s/rcudsSqoFqDYSZj"
+}
